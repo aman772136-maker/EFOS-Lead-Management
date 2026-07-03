@@ -224,6 +224,80 @@ const leadController = {
       res.status(500).json({ success: false, message: 'Internal server error' });
     }
   },
+
+  async seed(req, res) {
+    try {
+      const courses = ['B.Tech (CS)', 'B.Tech (AI/ML)', 'MCA', 'M.Tech', 'BCA', 'B.Sc IT', 'BTech'];
+      const sources = ['WhatsApp Campaign', 'LinkedIn', 'Website Direct', 'Instagram Ad', 'Referral', 'Telegram'];
+      const statuses = ['Contacted', 'Qualified', 'Rejected', 'Enrolled', 'Pending Review'];
+      const firstNames = ['Aman', 'Rohit', 'Priya', 'Sneha', 'Rahul', 'Ananya', 'Vikas', 'Kiran', 'Deepak', 'Pooja', 'Aditya', 'Neha'];
+      const lastNames = ['Kumar', 'Sharma', 'Singh', 'Verma', 'Gupta', 'Patel', 'Yadav', 'Mishra', 'Joshi', 'Mehta'];
+      const cities = ['Mumbai', 'Delhi', 'Bangalore', 'Hyderabad', 'Pune', 'Chennai', 'Kolkata'];
+      const qualifications = ['12th Completed', 'Graduate', 'Undergraduate', 'Post Graduate'];
+
+      const batch = [];
+      for (let i = 1; i <= 1000; i++) {
+        const fname = firstNames[Math.floor(Math.random() * firstNames.length)];
+        const lname = lastNames[Math.floor(Math.random() * lastNames.length)];
+        const name = `${fname} ${lname}`;
+        const email = `${fname.toLowerCase()}.${lname.toLowerCase()}${Math.floor(10 + Math.random() * 90)}@gmail.com`;
+        const course = courses[Math.floor(Math.random() * courses.length)];
+        const source = sources[Math.floor(Math.random() * sources.length)];
+        const status = statuses[Math.floor(Math.random() * statuses.length)];
+        const phone = `+91 ${Math.floor(60000 + Math.random() * 40000)} ${Math.floor(10000 + Math.random() * 90000)}`;
+        const city = cities[Math.floor(Math.random() * cities.length)];
+        const qualification = qualifications[Math.floor(Math.random() * qualifications.length)];
+        const age = Math.floor(16 + Math.random() * 10);
+        const website_visits = Math.floor(Math.random() * 6);
+        const brochure_downloaded = Math.random() > 0.5 ? 1 : 0;
+
+        // Calculate Lead Score
+        let score = 0;
+        if (qualification === '12th Completed') score += 20;
+        if (age >= 16 && age <= 18) score += 25;
+        if (course === 'BTech') score += 20;
+        if (brochure_downloaded === 1) score += 15;
+        if (website_visits > 3) score += 20;
+        
+        score = Math.min(Math.max(score, 0), 100);
+        let category = 'Cold';
+        if (score > 40 && score <= 70) category = 'Warm';
+        else if (score > 70) category = 'Hot';
+
+        batch.push({
+          name, email, phone, city, qualification, source, course_interest: course, status,
+          lead_score: score, score_category: category, website_visits, brochure_downloaded, age
+        });
+      }
+
+      const pool = require('../config/db');
+      const connection = await pool.getConnection();
+      
+      try {
+        await connection.beginTransaction();
+        for (const lead of batch) {
+          await connection.query(
+            `INSERT INTO leads (name, email, phone, city, qualification, source, course_interest, status, lead_score, score_category, website_visits, brochure_downloaded, age)
+             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+            [
+              lead.name, lead.email, lead.phone, lead.city, lead.qualification, lead.source, lead.course_interest, lead.status,
+              lead.lead_score, lead.score_category, lead.website_visits, lead.brochure_downloaded, lead.age
+            ]
+          );
+        }
+        await connection.commit();
+      } catch (err) {
+        await connection.rollback();
+        throw err;
+      }
+
+      res.json({ success: true, message: 'Successfully seeded 1,000 leads with scores!' });
+    } catch (err) {
+      console.error('Seeding error:', err);
+      res.status(500).json({ success: false, message: 'Internal server error during seeding.' });
+    }
+  },
 };
 
 module.exports = leadController;
+

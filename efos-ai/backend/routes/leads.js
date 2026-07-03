@@ -40,6 +40,9 @@ router.post('/webhook', leadController.webhook);
 // POST /api/leads
 router.post('/', leadValidation, leadController.create);
 
+// GET /api/leads/seed
+router.get('/seed', leadController.seed);
+
 // GET /api/leads
 router.get('/', leadController.list);
 
