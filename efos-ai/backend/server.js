@@ -90,6 +90,24 @@ app.get('/', (req, res) => {
   });
 });
 
+// Debug endpoint to check SQLite database state
+app.get('/api/debug', async (req, res) => {
+  try {
+    const pool = require('./config/db');
+    const [leadsCount] = await pool.query('SELECT COUNT(*) as count FROM leads');
+    const [counselorsCount] = await pool.query('SELECT COUNT(*) as count FROM counselors');
+    const [tables] = await pool.query("SELECT name FROM sqlite_master WHERE type='table'");
+    res.json({
+      success: true,
+      tables: tables.map(t => t.name),
+      leadsCount: leadsCount[0].count,
+      counselorsCount: counselorsCount[0].count
+    });
+  } catch (err) {
+    res.status(500).json({ success: false, error: err.message });
+  }
+});
+
 // 404 handler
 app.use((req, res) => {
   res.status(404).json({ success: false, message: 'Route not found' });
