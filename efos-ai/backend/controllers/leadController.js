@@ -235,8 +235,9 @@ const leadController = {
       const cities = ['Mumbai', 'Delhi', 'Bangalore', 'Hyderabad', 'Pune', 'Chennai', 'Kolkata'];
       const qualifications = ['12th Completed', 'Graduate', 'Undergraduate', 'Post Graduate'];
 
-      const batch = [];
-      for (let i = 1; i <= 1000; i++) {
+      const pool = require('../config/db');
+
+      for (let i = 1; i <= 200; i++) {
         const fname = firstNames[Math.floor(Math.random() * firstNames.length)];
         const lname = lastNames[Math.floor(Math.random() * lastNames.length)];
         const name = `${fname} ${lname}`;
@@ -264,34 +265,17 @@ const leadController = {
         if (score > 40 && score <= 70) category = 'Warm';
         else if (score > 70) category = 'Hot';
 
-        batch.push({
-          name, email, phone, city, qualification, source, course_interest: course, status,
-          lead_score: score, score_category: category, website_visits, brochure_downloaded, age
-        });
+        await pool.query(
+          `INSERT INTO leads (name, email, phone, city, qualification, source, course_interest, status, lead_score, score_category, website_visits, brochure_downloaded, age)
+           VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+          [
+            name, email, phone, city, qualification, source, course, status,
+            score, category, website_visits, brochure_downloaded, age
+          ]
+        );
       }
 
-      const pool = require('../config/db');
-      const connection = await pool.getConnection();
-      
-      try {
-        await connection.beginTransaction();
-        for (const lead of batch) {
-          await connection.query(
-            `INSERT INTO leads (name, email, phone, city, qualification, source, course_interest, status, lead_score, score_category, website_visits, brochure_downloaded, age)
-             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-            [
-              lead.name, lead.email, lead.phone, lead.city, lead.qualification, lead.source, lead.course_interest, lead.status,
-              lead.lead_score, lead.score_category, lead.website_visits, lead.brochure_downloaded, lead.age
-            ]
-          );
-        }
-        await connection.commit();
-      } catch (err) {
-        await connection.rollback();
-        throw err;
-      }
-
-      res.json({ success: true, message: 'Successfully seeded 1,000 leads with scores!' });
+      res.json({ success: true, message: 'Successfully seeded 200 leads directly!' });
     } catch (err) {
       console.error('Seeding error:', err);
       res.status(500).json({ success: false, message: 'Internal server error during seeding.' });
