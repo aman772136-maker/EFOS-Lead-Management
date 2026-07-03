@@ -69,7 +69,7 @@ Ensure you have **Node.js (v16+)** and **Python (v3+)** installed.
 ### 2. Backend Installation & Start
 1. Navigate to the backend directory:
    ```bash
-   cd EFOS AI/backend
+   cd efos-ai/backend
    ```
 2. Copy the example environment file and add your credentials:
    ```bash
