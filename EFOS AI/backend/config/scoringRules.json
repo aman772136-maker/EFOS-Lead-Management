@@ -1,0 +1,49 @@
+{
+  "rules": [
+    {
+      "key": "qualification_12th",
+      "field": "qualification",
+      "operator": "equals",
+      "value": "12th Completed",
+      "weight": 20,
+      "description": "Qualification is 12th Completed"
+    },
+    {
+      "key": "age_16_18",
+      "field": "age",
+      "operator": "range",
+      "value": { "min": 16, "max": 18 },
+      "weight": 25,
+      "description": "Age between 16 and 18"
+    },
+    {
+      "key": "course_interest_btech",
+      "field": "course_interest",
+      "operator": "equals",
+      "value": "BTech",
+      "weight": 20,
+      "description": "Course interest is BTech"
+    },
+    {
+      "key": "brochure_downloaded",
+      "field": "brochure_downloaded",
+      "operator": "equals",
+      "value": true,
+      "weight": 15,
+      "description": "Brochure downloaded"
+    },
+    {
+      "key": "website_visits_gt_3",
+      "field": "website_visits",
+      "operator": "greaterThan",
+      "value": 3,
+      "weight": 20,
+      "description": "Website visits greater than 3"
+    }
+  ],
+  "categories": {
+    "Cold": { "min": 0, "max": 40 },
+    "Warm": { "min": 41, "max": 70 },
+    "Hot": { "min": 71, "max": 100 }
+  }
+}

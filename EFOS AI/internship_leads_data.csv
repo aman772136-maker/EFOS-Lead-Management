@@ -1,0 +1,1001 @@
+Lead_ID,Name,Email_ID,Course,Source,Purpose_of_Visit,Application_Status
+INT_1001,Rohit Yadav,rohit.yadav30@gmail.com,MCA,Website Direct,Full-Time Internship,Pending Review
+INT_1002,Rahul Singh,rahul.singh57@gmail.com,MCA,Instagram Ad,Full-Time Internship,Qualified
+INT_1003,Vikas Patel,vikas.patel60@gmail.com,BCA,Instagram Ad,Summer Internship,Qualified
+INT_1004,Pooja Mehta,pooja.mehta83@gmail.com,BCA,Website Direct,Summer Internship,Contacted
+INT_1005,Priya Joshi,priya.joshi63@gmail.com,B.Tech (AI/ML),Telegram,Summer Internship,Rejected
+INT_1006,Priya Mishra,priya.mishra27@gmail.com,M.Tech,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1007,Neha Gupta,neha.gupta69@gmail.com,M.Tech,LinkedIn,Summer Internship,Qualified
+INT_1008,Rahul Sharma,rahul.sharma88@gmail.com,BCA,Telegram,Full-Time Internship,Rejected
+INT_1009,Vikas Sharma,vikas.sharma82@gmail.com,BCA,Telegram,Course Inquiry,Pending Review
+INT_1010,Priya Kumar,priya.kumar96@gmail.com,MCA,Telegram,Summer Internship,Pending Review
+INT_1011,Aman Gupta,aman.gupta13@gmail.com,BTech,LinkedIn,Summer Internship,Pending Review
+INT_1012,Aditya Gupta,aditya.gupta29@gmail.com,B.Tech (AI/ML),Telegram,Project Guidance,Rejected
+INT_1013,Aman Sharma,aman.sharma13@gmail.com,BTech,Telegram,Course Inquiry,Pending Review
+INT_1014,Rohit Sharma,rohit.sharma83@gmail.com,B.Tech (AI/ML),Telegram,Project Guidance,Pending Review
+INT_1015,Vikas Yadav,vikas.yadav82@gmail.com,B.Sc IT,WhatsApp Campaign,Project Guidance,Enrolled
+INT_1016,Ananya Patel,ananya.patel62@gmail.com,B.Sc IT,Website Direct,Course Inquiry,Enrolled
+INT_1017,Pooja Mishra,pooja.mishra89@gmail.com,B.Tech (AI/ML),Telegram,Project Guidance,Pending Review
+INT_1018,Pooja Gupta,pooja.gupta10@gmail.com,BTech,Instagram Ad,Summer Internship,Pending Review
+INT_1019,Rahul Sharma,rahul.sharma99@gmail.com,B.Tech (CS),WhatsApp Campaign,Project Guidance,Qualified
+INT_1020,Deepak Patel,deepak.patel99@gmail.com,B.Tech (CS),Referral,Course Inquiry,Pending Review
+INT_1021,Rohit Joshi,rohit.joshi67@gmail.com,BTech,WhatsApp Campaign,Summer Internship,Qualified
+INT_1022,Priya Mishra,priya.mishra36@gmail.com,B.Tech (CS),Referral,Course Inquiry,Enrolled
+INT_1023,Ananya Gupta,ananya.gupta81@gmail.com,BCA,Website Direct,Project Guidance,Qualified
+INT_1024,Aditya Singh,aditya.singh63@gmail.com,B.Tech (AI/ML),Referral,Project Guidance,Rejected
+INT_1025,Vikas Verma,vikas.verma60@gmail.com,B.Tech (CS),Referral,Summer Internship,Contacted
+INT_1026,Aditya Gupta,aditya.gupta36@gmail.com,B.Tech (CS),Telegram,Full-Time Internship,Contacted
+INT_1027,Rohit Verma,rohit.verma30@gmail.com,B.Sc IT,LinkedIn,Project Guidance,Qualified
+INT_1028,Rohit Verma,rohit.verma55@gmail.com,B.Tech (CS),Website Direct,Project Guidance,Rejected
+INT_1029,Kiran Joshi,kiran.joshi79@gmail.com,BTech,Telegram,Course Inquiry,Enrolled
+INT_1030,Aditya Sharma,aditya.sharma96@gmail.com,M.Tech,Referral,Course Inquiry,Rejected
+INT_1031,Aman Sharma,aman.sharma88@gmail.com,MCA,WhatsApp Campaign,Summer Internship,Enrolled
+INT_1032,Deepak Mehta,deepak.mehta18@gmail.com,B.Tech (AI/ML),Website Direct,Project Guidance,Enrolled
+INT_1033,Rahul Singh,rahul.singh93@gmail.com,B.Sc IT,WhatsApp Campaign,Project Guidance,Pending Review
+INT_1034,Aman Patel,aman.patel50@gmail.com,M.Tech,Referral,Project Guidance,Contacted
+INT_1035,Kiran Verma,kiran.verma51@gmail.com,BTech,Referral,Course Inquiry,Contacted
+INT_1036,Deepak Joshi,deepak.joshi57@gmail.com,BCA,WhatsApp Campaign,Project Guidance,Pending Review
+INT_1037,Aditya Sharma,aditya.sharma63@gmail.com,BTech,Telegram,Summer Internship,Qualified
+INT_1038,Rohit Gupta,rohit.gupta11@gmail.com,B.Sc IT,Instagram Ad,Project Guidance,Enrolled
+INT_1039,Deepak Mishra,deepak.mishra99@gmail.com,B.Tech (CS),Website Direct,Project Guidance,Enrolled
+INT_1040,Rohit Joshi,rohit.joshi56@gmail.com,MCA,Website Direct,Project Guidance,Pending Review
+INT_1041,Sneha Sharma,sneha.sharma85@gmail.com,B.Tech (AI/ML),LinkedIn,Project Guidance,Pending Review
+INT_1042,Deepak Patel,deepak.patel33@gmail.com,B.Tech (AI/ML),Telegram,Summer Internship,Enrolled
+INT_1043,Ananya Mishra,ananya.mishra55@gmail.com,B.Tech (CS),WhatsApp Campaign,Project Guidance,Enrolled
+INT_1044,Aditya Mishra,aditya.mishra29@gmail.com,B.Sc IT,Website Direct,Project Guidance,Enrolled
+INT_1045,Rahul Kumar,rahul.kumar47@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Project Guidance,Rejected
+INT_1046,Aman Kumar,aman.kumar63@gmail.com,B.Sc IT,LinkedIn,Course Inquiry,Enrolled
+INT_1047,Priya Kumar,priya.kumar54@gmail.com,B.Tech (CS),LinkedIn,Project Guidance,Rejected
+INT_1048,Sneha Sharma,sneha.sharma67@gmail.com,MCA,Referral,Project Guidance,Rejected
+INT_1049,Neha Gupta,neha.gupta53@gmail.com,BCA,Website Direct,Course Inquiry,Qualified
+INT_1050,Aditya Joshi,aditya.joshi15@gmail.com,B.Tech (AI/ML),Website Direct,Full-Time Internship,Pending Review
+INT_1051,Priya Sharma,priya.sharma80@gmail.com,BCA,LinkedIn,Full-Time Internship,Qualified
+INT_1052,Priya Yadav,priya.yadav51@gmail.com,MCA,Website Direct,Course Inquiry,Enrolled
+INT_1053,Aditya Yadav,aditya.yadav74@gmail.com,BCA,Telegram,Full-Time Internship,Pending Review
+INT_1054,Neha Patel,neha.patel80@gmail.com,B.Sc IT,Referral,Course Inquiry,Rejected
+INT_1055,Neha Patel,neha.patel17@gmail.com,BTech,LinkedIn,Project Guidance,Contacted
+INT_1056,Sneha Kumar,sneha.kumar87@gmail.com,MCA,Website Direct,Full-Time Internship,Qualified
+INT_1057,Aditya Yadav,aditya.yadav69@gmail.com,B.Sc IT,WhatsApp Campaign,Course Inquiry,Rejected
+INT_1058,Deepak Gupta,deepak.gupta41@gmail.com,M.Tech,Instagram Ad,Course Inquiry,Contacted
+INT_1059,Priya Patel,priya.patel29@gmail.com,BCA,Website Direct,Full-Time Internship,Contacted
+INT_1060,Priya Yadav,priya.yadav95@gmail.com,B.Sc IT,Instagram Ad,Full-Time Internship,Enrolled
+INT_1061,Pooja Mehta,pooja.mehta34@gmail.com,M.Tech,LinkedIn,Project Guidance,Pending Review
+INT_1062,Rahul Gupta,rahul.gupta51@gmail.com,MCA,Instagram Ad,Full-Time Internship,Enrolled
+INT_1063,Ananya Gupta,ananya.gupta92@gmail.com,MCA,Telegram,Course Inquiry,Rejected
+INT_1064,Sneha Yadav,sneha.yadav82@gmail.com,B.Sc IT,Instagram Ad,Course Inquiry,Enrolled
+INT_1065,Pooja Gupta,pooja.gupta60@gmail.com,B.Tech (CS),WhatsApp Campaign,Project Guidance,Contacted
+INT_1066,Pooja Mehta,pooja.mehta13@gmail.com,BCA,Website Direct,Course Inquiry,Pending Review
+INT_1067,Ananya Verma,ananya.verma43@gmail.com,B.Tech (CS),WhatsApp Campaign,Project Guidance,Rejected
+INT_1068,Rahul Sharma,rahul.sharma78@gmail.com,BTech,WhatsApp Campaign,Summer Internship,Enrolled
+INT_1069,Kiran Kumar,kiran.kumar92@gmail.com,BTech,Website Direct,Full-Time Internship,Rejected
+INT_1070,Kiran Verma,kiran.verma20@gmail.com,B.Tech (CS),Telegram,Course Inquiry,Enrolled
+INT_1071,Aditya Sharma,aditya.sharma74@gmail.com,B.Tech (CS),Website Direct,Project Guidance,Rejected
+INT_1072,Rahul Mishra,rahul.mishra18@gmail.com,B.Tech (AI/ML),Instagram Ad,Summer Internship,Rejected
+INT_1073,Aditya Gupta,aditya.gupta83@gmail.com,BCA,LinkedIn,Summer Internship,Enrolled
+INT_1074,Priya Patel,priya.patel24@gmail.com,M.Tech,Referral,Full-Time Internship,Rejected
+INT_1075,Neha Mehta,neha.mehta49@gmail.com,M.Tech,Website Direct,Course Inquiry,Contacted
+INT_1076,Kiran Singh,kiran.singh33@gmail.com,BTech,Instagram Ad,Project Guidance,Enrolled
+INT_1077,Sneha Mehta,sneha.mehta48@gmail.com,MCA,Referral,Project Guidance,Qualified
+INT_1078,Rohit Joshi,rohit.joshi88@gmail.com,M.Tech,WhatsApp Campaign,Course Inquiry,Pending Review
+INT_1079,Ananya Mehta,ananya.mehta87@gmail.com,B.Sc IT,LinkedIn,Full-Time Internship,Qualified
+INT_1080,Aman Yadav,aman.yadav57@gmail.com,B.Tech (CS),WhatsApp Campaign,Summer Internship,Rejected
+INT_1081,Priya Gupta,priya.gupta48@gmail.com,MCA,LinkedIn,Course Inquiry,Rejected
+INT_1082,Deepak Joshi,deepak.joshi14@gmail.com,B.Sc IT,Website Direct,Project Guidance,Pending Review
+INT_1083,Priya Sharma,priya.sharma19@gmail.com,B.Sc IT,Telegram,Course Inquiry,Contacted
+INT_1084,Kiran Kumar,kiran.kumar81@gmail.com,B.Tech (CS),WhatsApp Campaign,Full-Time Internship,Qualified
+INT_1085,Aditya Mehta,aditya.mehta56@gmail.com,B.Sc IT,Telegram,Full-Time Internship,Enrolled
+INT_1086,Kiran Patel,kiran.patel40@gmail.com,B.Sc IT,Instagram Ad,Project Guidance,Contacted
+INT_1087,Vikas Sharma,vikas.sharma20@gmail.com,MCA,Instagram Ad,Full-Time Internship,Rejected
+INT_1088,Ananya Gupta,ananya.gupta50@gmail.com,M.Tech,LinkedIn,Full-Time Internship,Qualified
+INT_1089,Vikas Singh,vikas.singh45@gmail.com,B.Tech (CS),Website Direct,Course Inquiry,Rejected
+INT_1090,Rohit Yadav,rohit.yadav56@gmail.com,MCA,Telegram,Full-Time Internship,Contacted
+INT_1091,Deepak Kumar,deepak.kumar32@gmail.com,BCA,Instagram Ad,Course Inquiry,Contacted
+INT_1092,Sneha Sharma,sneha.sharma70@gmail.com,MCA,Referral,Course Inquiry,Rejected
+INT_1093,Aditya Verma,aditya.verma16@gmail.com,BTech,Instagram Ad,Summer Internship,Rejected
+INT_1094,Rohit Mishra,rohit.mishra76@gmail.com,BTech,LinkedIn,Project Guidance,Pending Review
+INT_1095,Aman Gupta,aman.gupta48@gmail.com,BCA,Website Direct,Course Inquiry,Enrolled
+INT_1096,Priya Yadav,priya.yadav15@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Summer Internship,Contacted
+INT_1097,Kiran Singh,kiran.singh79@gmail.com,B.Sc IT,Website Direct,Project Guidance,Enrolled
+INT_1098,Rahul Gupta,rahul.gupta69@gmail.com,MCA,Referral,Project Guidance,Pending Review
+INT_1099,Sneha Gupta,sneha.gupta39@gmail.com,BTech,Referral,Project Guidance,Contacted
+INT_1100,Ananya Patel,ananya.patel74@gmail.com,BCA,Instagram Ad,Project Guidance,Rejected
+INT_1101,Pooja Kumar,pooja.kumar37@gmail.com,BTech,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1102,Kiran Patel,kiran.patel49@gmail.com,B.Sc IT,Telegram,Project Guidance,Rejected
+INT_1103,Kiran Kumar,kiran.kumar76@gmail.com,B.Tech (CS),Instagram Ad,Summer Internship,Qualified
+INT_1104,Aditya Yadav,aditya.yadav93@gmail.com,BTech,Telegram,Course Inquiry,Qualified
+INT_1105,Deepak Gupta,deepak.gupta10@gmail.com,B.Tech (CS),LinkedIn,Course Inquiry,Contacted
+INT_1106,Aditya Kumar,aditya.kumar98@gmail.com,BTech,WhatsApp Campaign,Summer Internship,Enrolled
+INT_1107,Priya Kumar,priya.kumar75@gmail.com,MCA,Telegram,Full-Time Internship,Qualified
+INT_1108,Priya Gupta,priya.gupta13@gmail.com,BCA,WhatsApp Campaign,Course Inquiry,Rejected
+INT_1109,Rohit Kumar,rohit.kumar73@gmail.com,MCA,LinkedIn,Project Guidance,Rejected
+INT_1110,Neha Yadav,neha.yadav43@gmail.com,BCA,Referral,Project Guidance,Contacted
+INT_1111,Neha Joshi,neha.joshi87@gmail.com,BTech,LinkedIn,Course Inquiry,Enrolled
+INT_1112,Kiran Sharma,kiran.sharma82@gmail.com,B.Tech (AI/ML),LinkedIn,Summer Internship,Rejected
+INT_1113,Rohit Patel,rohit.patel79@gmail.com,B.Tech (AI/ML),Website Direct,Course Inquiry,Rejected
+INT_1114,Priya Mehta,priya.mehta47@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Full-Time Internship,Contacted
+INT_1115,Aditya Verma,aditya.verma41@gmail.com,BCA,Telegram,Project Guidance,Rejected
+INT_1116,Pooja Sharma,pooja.sharma78@gmail.com,BTech,Instagram Ad,Course Inquiry,Rejected
+INT_1117,Rohit Gupta,rohit.gupta81@gmail.com,B.Sc IT,Referral,Project Guidance,Contacted
+INT_1118,Neha Mishra,neha.mishra16@gmail.com,B.Sc IT,Referral,Summer Internship,Enrolled
+INT_1119,Sneha Mehta,sneha.mehta59@gmail.com,MCA,Instagram Ad,Summer Internship,Pending Review
+INT_1120,Deepak Mishra,deepak.mishra35@gmail.com,B.Sc IT,Website Direct,Course Inquiry,Pending Review
+INT_1121,Aman Singh,aman.singh20@gmail.com,MCA,Website Direct,Summer Internship,Enrolled
+INT_1122,Kiran Yadav,kiran.yadav51@gmail.com,MCA,Referral,Course Inquiry,Qualified
+INT_1123,Deepak Mishra,deepak.mishra23@gmail.com,B.Sc IT,LinkedIn,Full-Time Internship,Enrolled
+INT_1124,Rahul Verma,rahul.verma66@gmail.com,B.Sc IT,Website Direct,Course Inquiry,Qualified
+INT_1125,Kiran Joshi,kiran.joshi30@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Project Guidance,Contacted
+INT_1126,Kiran Sharma,kiran.sharma31@gmail.com,BCA,Website Direct,Project Guidance,Pending Review
+INT_1127,Rohit Patel,rohit.patel18@gmail.com,B.Tech (CS),Website Direct,Summer Internship,Pending Review
+INT_1128,Aman Sharma,aman.sharma74@gmail.com,BCA,Telegram,Summer Internship,Qualified
+INT_1129,Aman Verma,aman.verma23@gmail.com,B.Sc IT,Referral,Course Inquiry,Qualified
+INT_1130,Rahul Mishra,rahul.mishra42@gmail.com,BTech,WhatsApp Campaign,Summer Internship,Qualified
+INT_1131,Pooja Kumar,pooja.kumar93@gmail.com,M.Tech,WhatsApp Campaign,Project Guidance,Rejected
+INT_1132,Sneha Sharma,sneha.sharma22@gmail.com,B.Sc IT,Instagram Ad,Course Inquiry,Qualified
+INT_1133,Pooja Sharma,pooja.sharma92@gmail.com,M.Tech,LinkedIn,Project Guidance,Enrolled
+INT_1134,Ananya Sharma,ananya.sharma60@gmail.com,BCA,Telegram,Project Guidance,Contacted
+INT_1135,Deepak Mishra,deepak.mishra36@gmail.com,B.Tech (CS),Referral,Course Inquiry,Enrolled
+INT_1136,Pooja Yadav,pooja.yadav35@gmail.com,BCA,WhatsApp Campaign,Project Guidance,Qualified
+INT_1137,Pooja Sharma,pooja.sharma36@gmail.com,M.Tech,Website Direct,Course Inquiry,Contacted
+INT_1138,Aditya Kumar,aditya.kumar45@gmail.com,BTech,Referral,Summer Internship,Rejected
+INT_1139,Ananya Singh,ananya.singh47@gmail.com,B.Sc IT,Telegram,Project Guidance,Pending Review
+INT_1140,Vikas Sharma,vikas.sharma46@gmail.com,MCA,Referral,Full-Time Internship,Enrolled
+INT_1141,Priya Mehta,priya.mehta22@gmail.com,B.Sc IT,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1142,Rahul Mishra,rahul.mishra34@gmail.com,BTech,Website Direct,Summer Internship,Rejected
+INT_1143,Priya Mishra,priya.mishra41@gmail.com,MCA,Telegram,Summer Internship,Contacted
+INT_1144,Rahul Joshi,rahul.joshi32@gmail.com,BCA,Instagram Ad,Full-Time Internship,Qualified
+INT_1145,Ananya Mishra,ananya.mishra64@gmail.com,M.Tech,Website Direct,Course Inquiry,Qualified
+INT_1146,Rohit Yadav,rohit.yadav49@gmail.com,B.Sc IT,LinkedIn,Summer Internship,Pending Review
+INT_1147,Neha Joshi,neha.joshi75@gmail.com,MCA,Referral,Summer Internship,Enrolled
+INT_1148,Pooja Mishra,pooja.mishra43@gmail.com,BCA,Referral,Course Inquiry,Qualified
+INT_1149,Priya Gupta,priya.gupta57@gmail.com,M.Tech,Referral,Summer Internship,Contacted
+INT_1150,Pooja Yadav,pooja.yadav44@gmail.com,MCA,Telegram,Project Guidance,Pending Review
+INT_1151,Ananya Sharma,ananya.sharma95@gmail.com,B.Tech (CS),LinkedIn,Full-Time Internship,Rejected
+INT_1152,Pooja Patel,pooja.patel56@gmail.com,MCA,Telegram,Project Guidance,Contacted
+INT_1153,Rohit Patel,rohit.patel27@gmail.com,B.Tech (CS),Website Direct,Summer Internship,Rejected
+INT_1154,Kiran Gupta,kiran.gupta18@gmail.com,B.Sc IT,Referral,Project Guidance,Enrolled
+INT_1155,Rahul Mishra,rahul.mishra81@gmail.com,B.Tech (CS),Website Direct,Summer Internship,Rejected
+INT_1156,Rohit Gupta,rohit.gupta87@gmail.com,B.Tech (AI/ML),Instagram Ad,Summer Internship,Contacted
+INT_1157,Neha Sharma,neha.sharma39@gmail.com,MCA,Referral,Course Inquiry,Contacted
+INT_1158,Neha Gupta,neha.gupta69@gmail.com,MCA,Instagram Ad,Full-Time Internship,Pending Review
+INT_1159,Rohit Joshi,rohit.joshi48@gmail.com,MCA,WhatsApp Campaign,Course Inquiry,Enrolled
+INT_1160,Priya Yadav,priya.yadav55@gmail.com,B.Tech (CS),Telegram,Full-Time Internship,Qualified
+INT_1161,Rahul Patel,rahul.patel29@gmail.com,B.Tech (AI/ML),Referral,Full-Time Internship,Pending Review
+INT_1162,Priya Mishra,priya.mishra29@gmail.com,BTech,Instagram Ad,Course Inquiry,Pending Review
+INT_1163,Deepak Sharma,deepak.sharma60@gmail.com,BCA,Instagram Ad,Full-Time Internship,Rejected
+INT_1164,Aditya Yadav,aditya.yadav11@gmail.com,M.Tech,Referral,Full-Time Internship,Qualified
+INT_1165,Rahul Mishra,rahul.mishra18@gmail.com,B.Tech (AI/ML),Website Direct,Full-Time Internship,Enrolled
+INT_1166,Kiran Yadav,kiran.yadav52@gmail.com,M.Tech,LinkedIn,Full-Time Internship,Pending Review
+INT_1167,Rohit Sharma,rohit.sharma97@gmail.com,B.Sc IT,LinkedIn,Project Guidance,Enrolled
+INT_1168,Aditya Joshi,aditya.joshi84@gmail.com,BCA,Telegram,Course Inquiry,Enrolled
+INT_1169,Vikas Singh,vikas.singh90@gmail.com,B.Tech (CS),Website Direct,Summer Internship,Contacted
+INT_1170,Deepak Patel,deepak.patel85@gmail.com,B.Tech (CS),Website Direct,Summer Internship,Qualified
+INT_1171,Sneha Kumar,sneha.kumar77@gmail.com,B.Sc IT,Website Direct,Project Guidance,Rejected
+INT_1172,Rahul Mehta,rahul.mehta75@gmail.com,B.Tech (CS),Referral,Project Guidance,Qualified
+INT_1173,Neha Sharma,neha.sharma49@gmail.com,B.Tech (CS),Website Direct,Summer Internship,Enrolled
+INT_1174,Sneha Mishra,sneha.mishra93@gmail.com,M.Tech,Website Direct,Course Inquiry,Qualified
+INT_1175,Aman Singh,aman.singh10@gmail.com,BCA,Website Direct,Full-Time Internship,Contacted
+INT_1176,Deepak Yadav,deepak.yadav90@gmail.com,B.Sc IT,Referral,Summer Internship,Rejected
+INT_1177,Aman Mehta,aman.mehta90@gmail.com,MCA,LinkedIn,Full-Time Internship,Pending Review
+INT_1178,Neha Singh,neha.singh83@gmail.com,M.Tech,Telegram,Summer Internship,Contacted
+INT_1179,Neha Sharma,neha.sharma91@gmail.com,MCA,Website Direct,Project Guidance,Rejected
+INT_1180,Kiran Yadav,kiran.yadav91@gmail.com,BTech,Website Direct,Course Inquiry,Enrolled
+INT_1181,Neha Patel,neha.patel33@gmail.com,MCA,Website Direct,Course Inquiry,Qualified
+INT_1182,Rohit Patel,rohit.patel84@gmail.com,M.Tech,WhatsApp Campaign,Full-Time Internship,Qualified
+INT_1183,Vikas Mehta,vikas.mehta56@gmail.com,B.Sc IT,WhatsApp Campaign,Summer Internship,Enrolled
+INT_1184,Sneha Mehta,sneha.mehta24@gmail.com,B.Sc IT,LinkedIn,Project Guidance,Qualified
+INT_1185,Priya Mishra,priya.mishra88@gmail.com,BTech,Instagram Ad,Full-Time Internship,Pending Review
+INT_1186,Pooja Joshi,pooja.joshi37@gmail.com,B.Sc IT,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1187,Aditya Singh,aditya.singh70@gmail.com,B.Sc IT,LinkedIn,Course Inquiry,Contacted
+INT_1188,Priya Verma,priya.verma70@gmail.com,B.Tech (CS),Instagram Ad,Project Guidance,Pending Review
+INT_1189,Vikas Joshi,vikas.joshi36@gmail.com,BCA,Telegram,Project Guidance,Contacted
+INT_1190,Aman Gupta,aman.gupta64@gmail.com,M.Tech,Telegram,Project Guidance,Pending Review
+INT_1191,Neha Mehta,neha.mehta92@gmail.com,BTech,Website Direct,Course Inquiry,Rejected
+INT_1192,Pooja Singh,pooja.singh80@gmail.com,BCA,LinkedIn,Course Inquiry,Qualified
+INT_1193,Aditya Patel,aditya.patel54@gmail.com,M.Tech,Referral,Project Guidance,Contacted
+INT_1194,Kiran Gupta,kiran.gupta81@gmail.com,BCA,WhatsApp Campaign,Summer Internship,Pending Review
+INT_1195,Deepak Sharma,deepak.sharma57@gmail.com,BCA,WhatsApp Campaign,Project Guidance,Contacted
+INT_1196,Rahul Mehta,rahul.mehta92@gmail.com,B.Sc IT,LinkedIn,Summer Internship,Qualified
+INT_1197,Ananya Joshi,ananya.joshi54@gmail.com,BTech,WhatsApp Campaign,Course Inquiry,Qualified
+INT_1198,Kiran Yadav,kiran.yadav86@gmail.com,B.Sc IT,Telegram,Full-Time Internship,Pending Review
+INT_1199,Ananya Verma,ananya.verma94@gmail.com,BCA,Telegram,Summer Internship,Contacted
+INT_1200,Vikas Gupta,vikas.gupta45@gmail.com,B.Sc IT,WhatsApp Campaign,Full-Time Internship,Qualified
+INT_1201,Kiran Mishra,kiran.mishra48@gmail.com,BTech,Telegram,Course Inquiry,Enrolled
+INT_1202,Neha Gupta,neha.gupta66@gmail.com,B.Tech (CS),Instagram Ad,Summer Internship,Pending Review
+INT_1203,Pooja Patel,pooja.patel94@gmail.com,BCA,LinkedIn,Project Guidance,Rejected
+INT_1204,Vikas Singh,vikas.singh79@gmail.com,M.Tech,Referral,Project Guidance,Pending Review
+INT_1205,Aditya Joshi,aditya.joshi32@gmail.com,BCA,Instagram Ad,Course Inquiry,Qualified
+INT_1206,Aman Mehta,aman.mehta47@gmail.com,B.Tech (AI/ML),Telegram,Summer Internship,Rejected
+INT_1207,Sneha Gupta,sneha.gupta32@gmail.com,B.Sc IT,Instagram Ad,Summer Internship,Rejected
+INT_1208,Priya Gupta,priya.gupta98@gmail.com,M.Tech,Website Direct,Full-Time Internship,Pending Review
+INT_1209,Priya Patel,priya.patel45@gmail.com,M.Tech,Telegram,Summer Internship,Pending Review
+INT_1210,Pooja Patel,pooja.patel21@gmail.com,M.Tech,Instagram Ad,Project Guidance,Rejected
+INT_1211,Kiran Sharma,kiran.sharma55@gmail.com,BTech,Website Direct,Summer Internship,Contacted
+INT_1212,Deepak Joshi,deepak.joshi18@gmail.com,B.Tech (AI/ML),Instagram Ad,Project Guidance,Contacted
+INT_1213,Sneha Kumar,sneha.kumar80@gmail.com,MCA,Website Direct,Course Inquiry,Qualified
+INT_1214,Sneha Patel,sneha.patel77@gmail.com,B.Tech (CS),Telegram,Full-Time Internship,Enrolled
+INT_1215,Priya Mishra,priya.mishra21@gmail.com,M.Tech,Referral,Project Guidance,Pending Review
+INT_1216,Rohit Joshi,rohit.joshi81@gmail.com,BCA,Referral,Full-Time Internship,Rejected
+INT_1217,Ananya Gupta,ananya.gupta65@gmail.com,B.Tech (AI/ML),LinkedIn,Full-Time Internship,Rejected
+INT_1218,Ananya Singh,ananya.singh82@gmail.com,B.Tech (CS),Telegram,Project Guidance,Qualified
+INT_1219,Ananya Yadav,ananya.yadav20@gmail.com,B.Tech (CS),Instagram Ad,Project Guidance,Enrolled
+INT_1220,Deepak Singh,deepak.singh23@gmail.com,BTech,Website Direct,Course Inquiry,Pending Review
+INT_1221,Vikas Gupta,vikas.gupta54@gmail.com,B.Sc IT,LinkedIn,Summer Internship,Enrolled
+INT_1222,Rahul Kumar,rahul.kumar15@gmail.com,B.Sc IT,Instagram Ad,Full-Time Internship,Qualified
+INT_1223,Kiran Sharma,kiran.sharma95@gmail.com,MCA,Website Direct,Course Inquiry,Qualified
+INT_1224,Rahul Sharma,rahul.sharma33@gmail.com,BCA,Referral,Course Inquiry,Contacted
+INT_1225,Rohit Sharma,rohit.sharma91@gmail.com,B.Sc IT,Instagram Ad,Course Inquiry,Pending Review
+INT_1226,Kiran Joshi,kiran.joshi37@gmail.com,BTech,LinkedIn,Project Guidance,Rejected
+INT_1227,Deepak Gupta,deepak.gupta19@gmail.com,BCA,Website Direct,Full-Time Internship,Contacted
+INT_1228,Sneha Mishra,sneha.mishra55@gmail.com,MCA,LinkedIn,Summer Internship,Enrolled
+INT_1229,Aman Sharma,aman.sharma47@gmail.com,B.Tech (AI/ML),LinkedIn,Project Guidance,Enrolled
+INT_1230,Neha Kumar,neha.kumar89@gmail.com,BCA,LinkedIn,Course Inquiry,Enrolled
+INT_1231,Aman Gupta,aman.gupta57@gmail.com,B.Sc IT,Website Direct,Course Inquiry,Pending Review
+INT_1232,Vikas Kumar,vikas.kumar40@gmail.com,MCA,WhatsApp Campaign,Project Guidance,Contacted
+INT_1233,Rohit Mehta,rohit.mehta52@gmail.com,B.Tech (AI/ML),LinkedIn,Project Guidance,Contacted
+INT_1234,Aman Yadav,aman.yadav50@gmail.com,BTech,Referral,Course Inquiry,Qualified
+INT_1235,Sneha Mishra,sneha.mishra74@gmail.com,B.Tech (CS),Instagram Ad,Project Guidance,Pending Review
+INT_1236,Deepak Patel,deepak.patel98@gmail.com,MCA,WhatsApp Campaign,Course Inquiry,Qualified
+INT_1237,Aditya Yadav,aditya.yadav24@gmail.com,M.Tech,Referral,Full-Time Internship,Rejected
+INT_1238,Vikas Kumar,vikas.kumar12@gmail.com,B.Tech (AI/ML),Referral,Course Inquiry,Rejected
+INT_1239,Rohit Gupta,rohit.gupta41@gmail.com,B.Tech (AI/ML),Instagram Ad,Full-Time Internship,Pending Review
+INT_1240,Kiran Patel,kiran.patel34@gmail.com,B.Sc IT,LinkedIn,Full-Time Internship,Enrolled
+INT_1241,Deepak Mishra,deepak.mishra78@gmail.com,B.Tech (AI/ML),Referral,Summer Internship,Contacted
+INT_1242,Ananya Yadav,ananya.yadav67@gmail.com,B.Sc IT,Referral,Full-Time Internship,Enrolled
+INT_1243,Rahul Kumar,rahul.kumar47@gmail.com,BTech,LinkedIn,Full-Time Internship,Contacted
+INT_1244,Deepak Mehta,deepak.mehta57@gmail.com,MCA,WhatsApp Campaign,Course Inquiry,Qualified
+INT_1245,Deepak Sharma,deepak.sharma97@gmail.com,M.Tech,Referral,Course Inquiry,Qualified
+INT_1246,Priya Sharma,priya.sharma45@gmail.com,BCA,Telegram,Summer Internship,Enrolled
+INT_1247,Aditya Patel,aditya.patel83@gmail.com,B.Tech (CS),Instagram Ad,Full-Time Internship,Contacted
+INT_1248,Ananya Sharma,ananya.sharma30@gmail.com,M.Tech,Instagram Ad,Full-Time Internship,Qualified
+INT_1249,Neha Verma,neha.verma96@gmail.com,MCA,Telegram,Project Guidance,Pending Review
+INT_1250,Aman Patel,aman.patel38@gmail.com,M.Tech,WhatsApp Campaign,Full-Time Internship,Rejected
+INT_1251,Neha Joshi,neha.joshi56@gmail.com,BCA,WhatsApp Campaign,Summer Internship,Contacted
+INT_1252,Aman Gupta,aman.gupta11@gmail.com,B.Sc IT,Telegram,Full-Time Internship,Pending Review
+INT_1253,Vikas Mehta,vikas.mehta18@gmail.com,B.Tech (AI/ML),Website Direct,Full-Time Internship,Contacted
+INT_1254,Sneha Sharma,sneha.sharma92@gmail.com,BTech,Website Direct,Project Guidance,Pending Review
+INT_1255,Vikas Gupta,vikas.gupta10@gmail.com,BCA,Telegram,Full-Time Internship,Rejected
+INT_1256,Deepak Joshi,deepak.joshi56@gmail.com,B.Sc IT,LinkedIn,Full-Time Internship,Qualified
+INT_1257,Aditya Kumar,aditya.kumar57@gmail.com,B.Sc IT,Instagram Ad,Full-Time Internship,Rejected
+INT_1258,Aman Mishra,aman.mishra88@gmail.com,BTech,Instagram Ad,Course Inquiry,Enrolled
+INT_1259,Aman Patel,aman.patel40@gmail.com,BTech,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1260,Sneha Mehta,sneha.mehta82@gmail.com,B.Sc IT,LinkedIn,Summer Internship,Contacted
+INT_1261,Rohit Gupta,rohit.gupta24@gmail.com,B.Tech (AI/ML),Referral,Course Inquiry,Qualified
+INT_1262,Kiran Singh,kiran.singh71@gmail.com,BTech,Instagram Ad,Course Inquiry,Contacted
+INT_1263,Sneha Mehta,sneha.mehta24@gmail.com,BCA,Website Direct,Full-Time Internship,Rejected
+INT_1264,Pooja Singh,pooja.singh71@gmail.com,BCA,Instagram Ad,Full-Time Internship,Rejected
+INT_1265,Aman Kumar,aman.kumar15@gmail.com,BTech,Instagram Ad,Summer Internship,Rejected
+INT_1266,Aman Singh,aman.singh11@gmail.com,BTech,Referral,Course Inquiry,Rejected
+INT_1267,Aditya Verma,aditya.verma67@gmail.com,M.Tech,WhatsApp Campaign,Full-Time Internship,Contacted
+INT_1268,Deepak Patel,deepak.patel96@gmail.com,BTech,Website Direct,Summer Internship,Contacted
+INT_1269,Ananya Kumar,ananya.kumar77@gmail.com,M.Tech,Instagram Ad,Course Inquiry,Contacted
+INT_1270,Aditya Singh,aditya.singh68@gmail.com,B.Tech (CS),LinkedIn,Full-Time Internship,Rejected
+INT_1271,Vikas Sharma,vikas.sharma50@gmail.com,B.Tech (AI/ML),Website Direct,Project Guidance,Enrolled
+INT_1272,Vikas Yadav,vikas.yadav53@gmail.com,B.Sc IT,WhatsApp Campaign,Project Guidance,Rejected
+INT_1273,Rahul Patel,rahul.patel64@gmail.com,BCA,Referral,Course Inquiry,Contacted
+INT_1274,Rahul Patel,rahul.patel47@gmail.com,BCA,Website Direct,Project Guidance,Pending Review
+INT_1275,Deepak Mehta,deepak.mehta71@gmail.com,B.Tech (CS),Website Direct,Project Guidance,Contacted
+INT_1276,Kiran Singh,kiran.singh67@gmail.com,BCA,Telegram,Project Guidance,Pending Review
+INT_1277,Kiran Singh,kiran.singh40@gmail.com,BCA,Referral,Summer Internship,Rejected
+INT_1278,Rahul Joshi,rahul.joshi25@gmail.com,B.Sc IT,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1279,Aditya Gupta,aditya.gupta26@gmail.com,M.Tech,Telegram,Project Guidance,Contacted
+INT_1280,Rahul Mishra,rahul.mishra30@gmail.com,B.Tech (AI/ML),Referral,Full-Time Internship,Pending Review
+INT_1281,Kiran Singh,kiran.singh83@gmail.com,BCA,Telegram,Course Inquiry,Contacted
+INT_1282,Neha Verma,neha.verma75@gmail.com,BTech,Telegram,Project Guidance,Rejected
+INT_1283,Kiran Verma,kiran.verma78@gmail.com,MCA,Instagram Ad,Project Guidance,Qualified
+INT_1284,Ananya Mishra,ananya.mishra31@gmail.com,BCA,Referral,Full-Time Internship,Qualified
+INT_1285,Aman Joshi,aman.joshi47@gmail.com,B.Sc IT,LinkedIn,Course Inquiry,Enrolled
+INT_1286,Priya Joshi,priya.joshi62@gmail.com,BTech,Referral,Course Inquiry,Pending Review
+INT_1287,Priya Singh,priya.singh42@gmail.com,B.Sc IT,WhatsApp Campaign,Summer Internship,Pending Review
+INT_1288,Aman Kumar,aman.kumar90@gmail.com,BCA,Referral,Summer Internship,Qualified
+INT_1289,Kiran Joshi,kiran.joshi14@gmail.com,BCA,Telegram,Course Inquiry,Enrolled
+INT_1290,Neha Verma,neha.verma39@gmail.com,MCA,Referral,Course Inquiry,Contacted
+INT_1291,Rahul Yadav,rahul.yadav93@gmail.com,M.Tech,LinkedIn,Project Guidance,Contacted
+INT_1292,Vikas Gupta,vikas.gupta60@gmail.com,B.Tech (CS),Website Direct,Course Inquiry,Rejected
+INT_1293,Kiran Singh,kiran.singh27@gmail.com,B.Tech (CS),WhatsApp Campaign,Project Guidance,Enrolled
+INT_1294,Vikas Gupta,vikas.gupta58@gmail.com,BCA,Referral,Course Inquiry,Qualified
+INT_1295,Aman Mehta,aman.mehta58@gmail.com,BCA,Referral,Full-Time Internship,Pending Review
+INT_1296,Aman Yadav,aman.yadav74@gmail.com,B.Tech (CS),Telegram,Project Guidance,Contacted
+INT_1297,Rohit Kumar,rohit.kumar78@gmail.com,B.Sc IT,Telegram,Full-Time Internship,Pending Review
+INT_1298,Priya Kumar,priya.kumar41@gmail.com,M.Tech,Website Direct,Full-Time Internship,Enrolled
+INT_1299,Rahul Mishra,rahul.mishra68@gmail.com,BCA,Referral,Course Inquiry,Enrolled
+INT_1300,Ananya Gupta,ananya.gupta51@gmail.com,BCA,Telegram,Full-Time Internship,Enrolled
+INT_1301,Pooja Verma,pooja.verma10@gmail.com,B.Sc IT,WhatsApp Campaign,Project Guidance,Rejected
+INT_1302,Ananya Sharma,ananya.sharma91@gmail.com,BTech,WhatsApp Campaign,Project Guidance,Pending Review
+INT_1303,Neha Gupta,neha.gupta97@gmail.com,M.Tech,WhatsApp Campaign,Full-Time Internship,Rejected
+INT_1304,Rohit Gupta,rohit.gupta59@gmail.com,B.Tech (AI/ML),LinkedIn,Full-Time Internship,Rejected
+INT_1305,Aditya Gupta,aditya.gupta15@gmail.com,B.Sc IT,Referral,Full-Time Internship,Qualified
+INT_1306,Kiran Gupta,kiran.gupta44@gmail.com,B.Sc IT,WhatsApp Campaign,Full-Time Internship,Rejected
+INT_1307,Sneha Sharma,sneha.sharma75@gmail.com,M.Tech,Referral,Summer Internship,Qualified
+INT_1308,Pooja Joshi,pooja.joshi20@gmail.com,MCA,WhatsApp Campaign,Summer Internship,Rejected
+INT_1309,Aditya Gupta,aditya.gupta12@gmail.com,MCA,Website Direct,Project Guidance,Enrolled
+INT_1310,Aditya Joshi,aditya.joshi97@gmail.com,B.Tech (CS),Referral,Full-Time Internship,Pending Review
+INT_1311,Ananya Gupta,ananya.gupta50@gmail.com,BTech,WhatsApp Campaign,Project Guidance,Pending Review
+INT_1312,Aditya Singh,aditya.singh84@gmail.com,M.Tech,Referral,Course Inquiry,Pending Review
+INT_1313,Sneha Yadav,sneha.yadav36@gmail.com,BTech,WhatsApp Campaign,Full-Time Internship,Qualified
+INT_1314,Ananya Mishra,ananya.mishra36@gmail.com,BTech,LinkedIn,Project Guidance,Enrolled
+INT_1315,Aman Mishra,aman.mishra20@gmail.com,B.Tech (AI/ML),Telegram,Course Inquiry,Contacted
+INT_1316,Pooja Singh,pooja.singh79@gmail.com,B.Tech (CS),LinkedIn,Full-Time Internship,Enrolled
+INT_1317,Vikas Singh,vikas.singh43@gmail.com,BTech,Referral,Project Guidance,Rejected
+INT_1318,Kiran Singh,kiran.singh85@gmail.com,M.Tech,Telegram,Course Inquiry,Qualified
+INT_1319,Sneha Singh,sneha.singh70@gmail.com,B.Tech (CS),Instagram Ad,Course Inquiry,Qualified
+INT_1320,Kiran Sharma,kiran.sharma85@gmail.com,M.Tech,Website Direct,Full-Time Internship,Rejected
+INT_1321,Aditya Gupta,aditya.gupta84@gmail.com,MCA,WhatsApp Campaign,Full-Time Internship,Qualified
+INT_1322,Aditya Patel,aditya.patel84@gmail.com,MCA,Instagram Ad,Project Guidance,Enrolled
+INT_1323,Kiran Verma,kiran.verma64@gmail.com,MCA,Telegram,Summer Internship,Qualified
+INT_1324,Deepak Singh,deepak.singh13@gmail.com,MCA,WhatsApp Campaign,Summer Internship,Contacted
+INT_1325,Rohit Mehta,rohit.mehta71@gmail.com,BTech,Instagram Ad,Course Inquiry,Pending Review
+INT_1326,Priya Mishra,priya.mishra79@gmail.com,MCA,LinkedIn,Course Inquiry,Qualified
+INT_1327,Ananya Joshi,ananya.joshi90@gmail.com,M.Tech,Website Direct,Summer Internship,Qualified
+INT_1328,Pooja Joshi,pooja.joshi83@gmail.com,B.Tech (AI/ML),Telegram,Course Inquiry,Rejected
+INT_1329,Rahul Yadav,rahul.yadav53@gmail.com,M.Tech,Instagram Ad,Project Guidance,Qualified
+INT_1330,Priya Mehta,priya.mehta41@gmail.com,BCA,Telegram,Course Inquiry,Qualified
+INT_1331,Priya Joshi,priya.joshi94@gmail.com,B.Sc IT,Referral,Summer Internship,Enrolled
+INT_1332,Kiran Verma,kiran.verma57@gmail.com,BTech,Website Direct,Course Inquiry,Rejected
+INT_1333,Kiran Mishra,kiran.mishra53@gmail.com,BCA,Instagram Ad,Course Inquiry,Enrolled
+INT_1334,Neha Gupta,neha.gupta19@gmail.com,B.Sc IT,LinkedIn,Project Guidance,Rejected
+INT_1335,Aditya Gupta,aditya.gupta84@gmail.com,M.Tech,Website Direct,Summer Internship,Contacted
+INT_1336,Aman Yadav,aman.yadav52@gmail.com,BCA,Instagram Ad,Full-Time Internship,Enrolled
+INT_1337,Vikas Sharma,vikas.sharma23@gmail.com,MCA,Instagram Ad,Course Inquiry,Qualified
+INT_1338,Neha Mehta,neha.mehta82@gmail.com,M.Tech,LinkedIn,Full-Time Internship,Enrolled
+INT_1339,Ananya Joshi,ananya.joshi16@gmail.com,B.Tech (AI/ML),Instagram Ad,Summer Internship,Pending Review
+INT_1340,Ananya Joshi,ananya.joshi27@gmail.com,MCA,Referral,Full-Time Internship,Contacted
+INT_1341,Vikas Patel,vikas.patel58@gmail.com,B.Sc IT,Referral,Summer Internship,Contacted
+INT_1342,Kiran Joshi,kiran.joshi69@gmail.com,M.Tech,LinkedIn,Course Inquiry,Rejected
+INT_1343,Aman Mishra,aman.mishra54@gmail.com,MCA,Telegram,Course Inquiry,Contacted
+INT_1344,Vikas Mishra,vikas.mishra18@gmail.com,MCA,Instagram Ad,Summer Internship,Contacted
+INT_1345,Aman Singh,aman.singh59@gmail.com,B.Tech (AI/ML),Telegram,Project Guidance,Pending Review
+INT_1346,Rohit Singh,rohit.singh81@gmail.com,MCA,WhatsApp Campaign,Project Guidance,Pending Review
+INT_1347,Neha Yadav,neha.yadav60@gmail.com,BTech,Referral,Full-Time Internship,Qualified
+INT_1348,Vikas Singh,vikas.singh15@gmail.com,B.Sc IT,Referral,Project Guidance,Pending Review
+INT_1349,Deepak Yadav,deepak.yadav40@gmail.com,M.Tech,Instagram Ad,Summer Internship,Qualified
+INT_1350,Rohit Verma,rohit.verma82@gmail.com,BCA,LinkedIn,Summer Internship,Pending Review
+INT_1351,Rahul Joshi,rahul.joshi56@gmail.com,MCA,WhatsApp Campaign,Full-Time Internship,Qualified
+INT_1352,Deepak Kumar,deepak.kumar28@gmail.com,B.Sc IT,Website Direct,Full-Time Internship,Contacted
+INT_1353,Aman Yadav,aman.yadav51@gmail.com,BTech,Website Direct,Course Inquiry,Enrolled
+INT_1354,Vikas Gupta,vikas.gupta57@gmail.com,BTech,Referral,Course Inquiry,Rejected
+INT_1355,Neha Sharma,neha.sharma67@gmail.com,BTech,Instagram Ad,Full-Time Internship,Enrolled
+INT_1356,Aman Patel,aman.patel77@gmail.com,B.Sc IT,Telegram,Full-Time Internship,Rejected
+INT_1357,Rohit Mehta,rohit.mehta66@gmail.com,B.Sc IT,Telegram,Course Inquiry,Pending Review
+INT_1358,Pooja Mehta,pooja.mehta32@gmail.com,MCA,Website Direct,Course Inquiry,Pending Review
+INT_1359,Sneha Mehta,sneha.mehta77@gmail.com,MCA,Referral,Project Guidance,Enrolled
+INT_1360,Ananya Kumar,ananya.kumar87@gmail.com,M.Tech,LinkedIn,Summer Internship,Pending Review
+INT_1361,Neha Yadav,neha.yadav51@gmail.com,M.Tech,LinkedIn,Full-Time Internship,Contacted
+INT_1362,Aditya Kumar,aditya.kumar76@gmail.com,M.Tech,Instagram Ad,Summer Internship,Contacted
+INT_1363,Ananya Yadav,ananya.yadav57@gmail.com,B.Tech (AI/ML),Referral,Summer Internship,Enrolled
+INT_1364,Neha Yadav,neha.yadav13@gmail.com,M.Tech,WhatsApp Campaign,Full-Time Internship,Rejected
+INT_1365,Kiran Joshi,kiran.joshi16@gmail.com,MCA,Referral,Full-Time Internship,Qualified
+INT_1366,Pooja Yadav,pooja.yadav29@gmail.com,B.Tech (CS),Instagram Ad,Project Guidance,Enrolled
+INT_1367,Aman Verma,aman.verma76@gmail.com,BCA,Telegram,Project Guidance,Enrolled
+INT_1368,Ananya Mishra,ananya.mishra87@gmail.com,BTech,Referral,Project Guidance,Enrolled
+INT_1369,Sneha Singh,sneha.singh84@gmail.com,M.Tech,Instagram Ad,Full-Time Internship,Contacted
+INT_1370,Vikas Mishra,vikas.mishra52@gmail.com,B.Sc IT,Instagram Ad,Summer Internship,Enrolled
+INT_1371,Deepak Mehta,deepak.mehta82@gmail.com,B.Tech (AI/ML),LinkedIn,Summer Internship,Enrolled
+INT_1372,Deepak Joshi,deepak.joshi96@gmail.com,BCA,Telegram,Full-Time Internship,Enrolled
+INT_1373,Neha Sharma,neha.sharma71@gmail.com,BTech,Instagram Ad,Full-Time Internship,Qualified
+INT_1374,Kiran Sharma,kiran.sharma90@gmail.com,M.Tech,Telegram,Full-Time Internship,Contacted
+INT_1375,Kiran Sharma,kiran.sharma44@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Project Guidance,Pending Review
+INT_1376,Kiran Joshi,kiran.joshi78@gmail.com,M.Tech,LinkedIn,Summer Internship,Rejected
+INT_1377,Vikas Kumar,vikas.kumar86@gmail.com,B.Tech (CS),LinkedIn,Project Guidance,Pending Review
+INT_1378,Kiran Sharma,kiran.sharma23@gmail.com,B.Sc IT,Instagram Ad,Summer Internship,Qualified
+INT_1379,Ananya Joshi,ananya.joshi27@gmail.com,BCA,LinkedIn,Summer Internship,Enrolled
+INT_1380,Aditya Singh,aditya.singh53@gmail.com,M.Tech,LinkedIn,Full-Time Internship,Contacted
+INT_1381,Rohit Joshi,rohit.joshi91@gmail.com,BCA,LinkedIn,Course Inquiry,Qualified
+INT_1382,Ananya Mishra,ananya.mishra85@gmail.com,B.Sc IT,Referral,Course Inquiry,Enrolled
+INT_1383,Rahul Mishra,rahul.mishra62@gmail.com,BTech,Telegram,Project Guidance,Enrolled
+INT_1384,Sneha Sharma,sneha.sharma34@gmail.com,B.Tech (CS),Website Direct,Project Guidance,Contacted
+INT_1385,Sneha Mehta,sneha.mehta11@gmail.com,M.Tech,Website Direct,Summer Internship,Qualified
+INT_1386,Aditya Patel,aditya.patel42@gmail.com,B.Tech (CS),Website Direct,Course Inquiry,Contacted
+INT_1387,Rahul Kumar,rahul.kumar32@gmail.com,BTech,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1388,Rahul Verma,rahul.verma44@gmail.com,B.Tech (CS),Referral,Project Guidance,Rejected
+INT_1389,Deepak Singh,deepak.singh73@gmail.com,MCA,Telegram,Course Inquiry,Qualified
+INT_1390,Deepak Joshi,deepak.joshi80@gmail.com,M.Tech,Referral,Full-Time Internship,Pending Review
+INT_1391,Sneha Singh,sneha.singh44@gmail.com,M.Tech,WhatsApp Campaign,Course Inquiry,Rejected
+INT_1392,Rahul Kumar,rahul.kumar74@gmail.com,B.Sc IT,LinkedIn,Full-Time Internship,Rejected
+INT_1393,Rohit Mehta,rohit.mehta72@gmail.com,B.Tech (AI/ML),LinkedIn,Course Inquiry,Rejected
+INT_1394,Rahul Singh,rahul.singh76@gmail.com,MCA,Instagram Ad,Course Inquiry,Rejected
+INT_1395,Rahul Mishra,rahul.mishra64@gmail.com,M.Tech,Instagram Ad,Course Inquiry,Qualified
+INT_1396,Aman Yadav,aman.yadav80@gmail.com,M.Tech,WhatsApp Campaign,Summer Internship,Pending Review
+INT_1397,Vikas Mishra,vikas.mishra29@gmail.com,BCA,Website Direct,Full-Time Internship,Enrolled
+INT_1398,Deepak Mehta,deepak.mehta57@gmail.com,B.Sc IT,Instagram Ad,Project Guidance,Qualified
+INT_1399,Priya Kumar,priya.kumar66@gmail.com,B.Tech (CS),Instagram Ad,Summer Internship,Enrolled
+INT_1400,Pooja Verma,pooja.verma66@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Project Guidance,Pending Review
+INT_1401,Aditya Patel,aditya.patel51@gmail.com,B.Sc IT,Telegram,Summer Internship,Enrolled
+INT_1402,Vikas Yadav,vikas.yadav45@gmail.com,M.Tech,Referral,Project Guidance,Enrolled
+INT_1403,Vikas Patel,vikas.patel62@gmail.com,B.Sc IT,WhatsApp Campaign,Course Inquiry,Rejected
+INT_1404,Neha Joshi,neha.joshi21@gmail.com,BCA,WhatsApp Campaign,Course Inquiry,Qualified
+INT_1405,Priya Joshi,priya.joshi48@gmail.com,BCA,Instagram Ad,Summer Internship,Qualified
+INT_1406,Priya Sharma,priya.sharma82@gmail.com,B.Tech (AI/ML),Referral,Course Inquiry,Qualified
+INT_1407,Rohit Kumar,rohit.kumar15@gmail.com,MCA,WhatsApp Campaign,Project Guidance,Enrolled
+INT_1408,Neha Mishra,neha.mishra66@gmail.com,MCA,Referral,Full-Time Internship,Rejected
+INT_1409,Pooja Patel,pooja.patel29@gmail.com,M.Tech,Instagram Ad,Summer Internship,Pending Review
+INT_1410,Vikas Yadav,vikas.yadav30@gmail.com,B.Tech (AI/ML),Website Direct,Full-Time Internship,Pending Review
+INT_1411,Rohit Yadav,rohit.yadav61@gmail.com,M.Tech,LinkedIn,Project Guidance,Enrolled
+INT_1412,Rahul Joshi,rahul.joshi90@gmail.com,BCA,LinkedIn,Course Inquiry,Qualified
+INT_1413,Pooja Singh,pooja.singh58@gmail.com,B.Tech (AI/ML),Telegram,Course Inquiry,Pending Review
+INT_1414,Kiran Gupta,kiran.gupta42@gmail.com,B.Tech (AI/ML),Instagram Ad,Summer Internship,Rejected
+INT_1415,Aditya Joshi,aditya.joshi41@gmail.com,BTech,LinkedIn,Summer Internship,Qualified
+INT_1416,Rahul Singh,rahul.singh10@gmail.com,B.Sc IT,Instagram Ad,Full-Time Internship,Pending Review
+INT_1417,Aditya Gupta,aditya.gupta60@gmail.com,MCA,LinkedIn,Project Guidance,Rejected
+INT_1418,Deepak Verma,deepak.verma34@gmail.com,B.Tech (CS),Referral,Course Inquiry,Contacted
+INT_1419,Ananya Joshi,ananya.joshi33@gmail.com,BTech,Telegram,Full-Time Internship,Contacted
+INT_1420,Neha Mehta,neha.mehta84@gmail.com,B.Tech (CS),Instagram Ad,Summer Internship,Pending Review
+INT_1421,Rohit Yadav,rohit.yadav87@gmail.com,M.Tech,WhatsApp Campaign,Summer Internship,Contacted
+INT_1422,Pooja Joshi,pooja.joshi57@gmail.com,BCA,Telegram,Full-Time Internship,Pending Review
+INT_1423,Sneha Kumar,sneha.kumar74@gmail.com,M.Tech,LinkedIn,Course Inquiry,Enrolled
+INT_1424,Deepak Yadav,deepak.yadav95@gmail.com,MCA,Telegram,Project Guidance,Pending Review
+INT_1425,Neha Patel,neha.patel31@gmail.com,BTech,Website Direct,Course Inquiry,Contacted
+INT_1426,Rohit Mehta,rohit.mehta84@gmail.com,MCA,LinkedIn,Full-Time Internship,Pending Review
+INT_1427,Aman Kumar,aman.kumar31@gmail.com,B.Sc IT,WhatsApp Campaign,Full-Time Internship,Qualified
+INT_1428,Sneha Joshi,sneha.joshi63@gmail.com,BTech,Telegram,Summer Internship,Rejected
+INT_1429,Aman Mishra,aman.mishra23@gmail.com,M.Tech,Telegram,Project Guidance,Qualified
+INT_1430,Priya Verma,priya.verma27@gmail.com,B.Tech (CS),WhatsApp Campaign,Summer Internship,Rejected
+INT_1431,Deepak Singh,deepak.singh74@gmail.com,M.Tech,Instagram Ad,Project Guidance,Enrolled
+INT_1432,Aditya Joshi,aditya.joshi62@gmail.com,BTech,Website Direct,Course Inquiry,Rejected
+INT_1433,Sneha Verma,sneha.verma12@gmail.com,BCA,WhatsApp Campaign,Course Inquiry,Pending Review
+INT_1434,Ananya Singh,ananya.singh17@gmail.com,M.Tech,LinkedIn,Full-Time Internship,Qualified
+INT_1435,Rahul Singh,rahul.singh71@gmail.com,B.Tech (CS),WhatsApp Campaign,Project Guidance,Rejected
+INT_1436,Sneha Kumar,sneha.kumar45@gmail.com,BCA,LinkedIn,Summer Internship,Contacted
+INT_1437,Pooja Sharma,pooja.sharma85@gmail.com,B.Tech (CS),Instagram Ad,Project Guidance,Rejected
+INT_1438,Rohit Joshi,rohit.joshi22@gmail.com,B.Tech (CS),Website Direct,Course Inquiry,Enrolled
+INT_1439,Neha Verma,neha.verma20@gmail.com,M.Tech,LinkedIn,Course Inquiry,Pending Review
+INT_1440,Ananya Singh,ananya.singh46@gmail.com,B.Sc IT,WhatsApp Campaign,Summer Internship,Qualified
+INT_1441,Rahul Mehta,rahul.mehta47@gmail.com,BTech,Referral,Summer Internship,Contacted
+INT_1442,Aditya Yadav,aditya.yadav55@gmail.com,B.Tech (CS),Referral,Full-Time Internship,Pending Review
+INT_1443,Kiran Kumar,kiran.kumar73@gmail.com,BTech,WhatsApp Campaign,Full-Time Internship,Pending Review
+INT_1444,Aditya Joshi,aditya.joshi95@gmail.com,BCA,Instagram Ad,Project Guidance,Contacted
+INT_1445,Vikas Gupta,vikas.gupta29@gmail.com,B.Tech (AI/ML),Referral,Summer Internship,Qualified
+INT_1446,Rahul Singh,rahul.singh13@gmail.com,B.Tech (CS),Instagram Ad,Project Guidance,Enrolled
+INT_1447,Kiran Mehta,kiran.mehta99@gmail.com,B.Sc IT,Website Direct,Course Inquiry,Qualified
+INT_1448,Kiran Sharma,kiran.sharma74@gmail.com,B.Tech (AI/ML),Website Direct,Project Guidance,Qualified
+INT_1449,Rahul Mishra,rahul.mishra20@gmail.com,B.Sc IT,Website Direct,Full-Time Internship,Qualified
+INT_1450,Aditya Patel,aditya.patel80@gmail.com,BTech,WhatsApp Campaign,Course Inquiry,Contacted
+INT_1451,Aditya Sharma,aditya.sharma34@gmail.com,M.Tech,Referral,Summer Internship,Qualified
+INT_1452,Rohit Patel,rohit.patel61@gmail.com,B.Tech (CS),Telegram,Summer Internship,Contacted
+INT_1453,Kiran Mehta,kiran.mehta35@gmail.com,BCA,Telegram,Full-Time Internship,Enrolled
+INT_1454,Pooja Sharma,pooja.sharma20@gmail.com,B.Tech (CS),Referral,Summer Internship,Pending Review
+INT_1455,Aditya Mishra,aditya.mishra90@gmail.com,MCA,LinkedIn,Course Inquiry,Rejected
+INT_1456,Rahul Mishra,rahul.mishra77@gmail.com,B.Tech (CS),Instagram Ad,Project Guidance,Enrolled
+INT_1457,Aman Verma,aman.verma95@gmail.com,BTech,Instagram Ad,Full-Time Internship,Qualified
+INT_1458,Sneha Sharma,sneha.sharma98@gmail.com,B.Tech (CS),WhatsApp Campaign,Summer Internship,Contacted
+INT_1459,Ananya Kumar,ananya.kumar21@gmail.com,MCA,LinkedIn,Course Inquiry,Qualified
+INT_1460,Aditya Verma,aditya.verma75@gmail.com,BCA,LinkedIn,Summer Internship,Qualified
+INT_1461,Rahul Mehta,rahul.mehta94@gmail.com,BTech,Telegram,Summer Internship,Pending Review
+INT_1462,Pooja Gupta,pooja.gupta99@gmail.com,BTech,Website Direct,Full-Time Internship,Contacted
+INT_1463,Deepak Patel,deepak.patel85@gmail.com,B.Tech (CS),Telegram,Full-Time Internship,Contacted
+INT_1464,Aman Joshi,aman.joshi52@gmail.com,BTech,LinkedIn,Course Inquiry,Pending Review
+INT_1465,Kiran Sharma,kiran.sharma13@gmail.com,BCA,Instagram Ad,Course Inquiry,Contacted
+INT_1466,Deepak Patel,deepak.patel84@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Course Inquiry,Rejected
+INT_1467,Neha Sharma,neha.sharma35@gmail.com,B.Tech (CS),Telegram,Project Guidance,Enrolled
+INT_1468,Aditya Mehta,aditya.mehta46@gmail.com,B.Tech (CS),LinkedIn,Project Guidance,Qualified
+INT_1469,Rohit Mehta,rohit.mehta92@gmail.com,B.Tech (CS),Website Direct,Summer Internship,Qualified
+INT_1470,Rahul Kumar,rahul.kumar65@gmail.com,MCA,LinkedIn,Summer Internship,Qualified
+INT_1471,Ananya Mishra,ananya.mishra83@gmail.com,B.Sc IT,Instagram Ad,Summer Internship,Contacted
+INT_1472,Kiran Gupta,kiran.gupta87@gmail.com,MCA,Telegram,Full-Time Internship,Pending Review
+INT_1473,Kiran Joshi,kiran.joshi61@gmail.com,B.Sc IT,LinkedIn,Project Guidance,Contacted
+INT_1474,Vikas Joshi,vikas.joshi75@gmail.com,B.Tech (AI/ML),Website Direct,Course Inquiry,Enrolled
+INT_1475,Ananya Patel,ananya.patel98@gmail.com,MCA,Instagram Ad,Project Guidance,Pending Review
+INT_1476,Aditya Verma,aditya.verma21@gmail.com,BCA,Telegram,Course Inquiry,Qualified
+INT_1477,Rahul Kumar,rahul.kumar78@gmail.com,BTech,WhatsApp Campaign,Course Inquiry,Contacted
+INT_1478,Aditya Verma,aditya.verma58@gmail.com,B.Tech (AI/ML),Referral,Project Guidance,Rejected
+INT_1479,Pooja Patel,pooja.patel31@gmail.com,BCA,Telegram,Course Inquiry,Qualified
+INT_1480,Deepak Yadav,deepak.yadav86@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Summer Internship,Qualified
+INT_1481,Aditya Mishra,aditya.mishra42@gmail.com,B.Tech (AI/ML),Telegram,Full-Time Internship,Enrolled
+INT_1482,Sneha Yadav,sneha.yadav28@gmail.com,B.Tech (CS),Referral,Project Guidance,Enrolled
+INT_1483,Pooja Kumar,pooja.kumar46@gmail.com,B.Sc IT,Telegram,Course Inquiry,Pending Review
+INT_1484,Neha Gupta,neha.gupta36@gmail.com,MCA,Instagram Ad,Project Guidance,Enrolled
+INT_1485,Aman Patel,aman.patel68@gmail.com,M.Tech,Website Direct,Course Inquiry,Rejected
+INT_1486,Pooja Sharma,pooja.sharma66@gmail.com,MCA,Telegram,Project Guidance,Contacted
+INT_1487,Aditya Yadav,aditya.yadav53@gmail.com,B.Sc IT,WhatsApp Campaign,Summer Internship,Rejected
+INT_1488,Ananya Mehta,ananya.mehta25@gmail.com,M.Tech,Referral,Course Inquiry,Contacted
+INT_1489,Aman Kumar,aman.kumar79@gmail.com,M.Tech,Instagram Ad,Course Inquiry,Contacted
+INT_1490,Aman Singh,aman.singh19@gmail.com,BTech,LinkedIn,Course Inquiry,Pending Review
+INT_1491,Aditya Mishra,aditya.mishra21@gmail.com,BTech,Telegram,Project Guidance,Enrolled
+INT_1492,Rahul Gupta,rahul.gupta90@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Summer Internship,Qualified
+INT_1493,Priya Gupta,priya.gupta19@gmail.com,BCA,WhatsApp Campaign,Full-Time Internship,Pending Review
+INT_1494,Pooja Mishra,pooja.mishra72@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Summer Internship,Contacted
+INT_1495,Aditya Kumar,aditya.kumar92@gmail.com,MCA,Telegram,Summer Internship,Contacted
+INT_1496,Rohit Verma,rohit.verma75@gmail.com,MCA,WhatsApp Campaign,Course Inquiry,Contacted
+INT_1497,Ananya Sharma,ananya.sharma84@gmail.com,BTech,Instagram Ad,Summer Internship,Qualified
+INT_1498,Ananya Singh,ananya.singh82@gmail.com,MCA,LinkedIn,Full-Time Internship,Qualified
+INT_1499,Deepak Patel,deepak.patel71@gmail.com,B.Sc IT,Instagram Ad,Course Inquiry,Pending Review
+INT_1500,Deepak Yadav,deepak.yadav64@gmail.com,MCA,LinkedIn,Summer Internship,Contacted
+INT_1501,Rahul Sharma,rahul.sharma59@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Summer Internship,Pending Review
+INT_1502,Neha Patel,neha.patel62@gmail.com,BTech,WhatsApp Campaign,Summer Internship,Contacted
+INT_1503,Neha Yadav,neha.yadav62@gmail.com,MCA,Website Direct,Course Inquiry,Pending Review
+INT_1504,Kiran Yadav,kiran.yadav68@gmail.com,M.Tech,Referral,Summer Internship,Enrolled
+INT_1505,Aditya Verma,aditya.verma86@gmail.com,M.Tech,Referral,Course Inquiry,Pending Review
+INT_1506,Rohit Mehta,rohit.mehta30@gmail.com,B.Tech (AI/ML),Referral,Summer Internship,Pending Review
+INT_1507,Kiran Yadav,kiran.yadav58@gmail.com,B.Tech (AI/ML),Referral,Course Inquiry,Contacted
+INT_1508,Rohit Gupta,rohit.gupta88@gmail.com,BCA,Telegram,Project Guidance,Pending Review
+INT_1509,Rohit Joshi,rohit.joshi40@gmail.com,BTech,LinkedIn,Summer Internship,Enrolled
+INT_1510,Deepak Yadav,deepak.yadav77@gmail.com,B.Sc IT,Referral,Project Guidance,Pending Review
+INT_1511,Kiran Sharma,kiran.sharma37@gmail.com,B.Tech (CS),Website Direct,Course Inquiry,Contacted
+INT_1512,Vikas Kumar,vikas.kumar66@gmail.com,B.Tech (CS),LinkedIn,Full-Time Internship,Rejected
+INT_1513,Kiran Mishra,kiran.mishra42@gmail.com,B.Tech (CS),Telegram,Project Guidance,Contacted
+INT_1514,Ananya Yadav,ananya.yadav80@gmail.com,BTech,Website Direct,Project Guidance,Contacted
+INT_1515,Rahul Verma,rahul.verma56@gmail.com,BCA,Referral,Full-Time Internship,Enrolled
+INT_1516,Sneha Joshi,sneha.joshi39@gmail.com,M.Tech,WhatsApp Campaign,Summer Internship,Rejected
+INT_1517,Rohit Yadav,rohit.yadav34@gmail.com,BTech,Website Direct,Full-Time Internship,Enrolled
+INT_1518,Deepak Singh,deepak.singh64@gmail.com,MCA,LinkedIn,Summer Internship,Rejected
+INT_1519,Priya Patel,priya.patel95@gmail.com,M.Tech,Instagram Ad,Full-Time Internship,Enrolled
+INT_1520,Ananya Sharma,ananya.sharma23@gmail.com,BTech,Referral,Course Inquiry,Qualified
+INT_1521,Deepak Patel,deepak.patel48@gmail.com,BTech,Telegram,Course Inquiry,Pending Review
+INT_1522,Rahul Patel,rahul.patel67@gmail.com,B.Sc IT,Website Direct,Summer Internship,Qualified
+INT_1523,Sneha Sharma,sneha.sharma22@gmail.com,M.Tech,WhatsApp Campaign,Summer Internship,Rejected
+INT_1524,Sneha Patel,sneha.patel21@gmail.com,B.Tech (AI/ML),Referral,Full-Time Internship,Contacted
+INT_1525,Priya Yadav,priya.yadav62@gmail.com,B.Tech (AI/ML),LinkedIn,Full-Time Internship,Enrolled
+INT_1526,Priya Mishra,priya.mishra30@gmail.com,BTech,Website Direct,Project Guidance,Rejected
+INT_1527,Rohit Yadav,rohit.yadav23@gmail.com,MCA,LinkedIn,Course Inquiry,Enrolled
+INT_1528,Sneha Yadav,sneha.yadav56@gmail.com,B.Tech (AI/ML),Referral,Summer Internship,Pending Review
+INT_1529,Ananya Singh,ananya.singh58@gmail.com,B.Tech (AI/ML),Referral,Summer Internship,Rejected
+INT_1530,Rohit Mehta,rohit.mehta89@gmail.com,M.Tech,Website Direct,Full-Time Internship,Pending Review
+INT_1531,Aditya Mishra,aditya.mishra33@gmail.com,B.Tech (CS),Referral,Full-Time Internship,Contacted
+INT_1532,Priya Mehta,priya.mehta43@gmail.com,BTech,LinkedIn,Full-Time Internship,Pending Review
+INT_1533,Vikas Yadav,vikas.yadav45@gmail.com,BCA,Instagram Ad,Summer Internship,Enrolled
+INT_1534,Aman Kumar,aman.kumar41@gmail.com,BTech,LinkedIn,Full-Time Internship,Contacted
+INT_1535,Kiran Singh,kiran.singh46@gmail.com,B.Sc IT,Website Direct,Full-Time Internship,Rejected
+INT_1536,Aditya Mishra,aditya.mishra34@gmail.com,BTech,LinkedIn,Full-Time Internship,Enrolled
+INT_1537,Sneha Kumar,sneha.kumar59@gmail.com,B.Sc IT,Instagram Ad,Project Guidance,Contacted
+INT_1538,Priya Yadav,priya.yadav61@gmail.com,B.Tech (AI/ML),Website Direct,Project Guidance,Rejected
+INT_1539,Priya Gupta,priya.gupta61@gmail.com,MCA,Telegram,Summer Internship,Pending Review
+INT_1540,Vikas Singh,vikas.singh62@gmail.com,BTech,WhatsApp Campaign,Summer Internship,Rejected
+INT_1541,Priya Gupta,priya.gupta66@gmail.com,BCA,LinkedIn,Course Inquiry,Enrolled
+INT_1542,Kiran Kumar,kiran.kumar97@gmail.com,B.Sc IT,Referral,Project Guidance,Contacted
+INT_1543,Pooja Patel,pooja.patel30@gmail.com,B.Tech (CS),Website Direct,Course Inquiry,Qualified
+INT_1544,Rohit Gupta,rohit.gupta42@gmail.com,MCA,Referral,Project Guidance,Qualified
+INT_1545,Aditya Verma,aditya.verma88@gmail.com,B.Tech (CS),Instagram Ad,Course Inquiry,Contacted
+INT_1546,Aman Sharma,aman.sharma98@gmail.com,BCA,Referral,Full-Time Internship,Rejected
+INT_1547,Neha Yadav,neha.yadav71@gmail.com,BCA,Website Direct,Course Inquiry,Enrolled
+INT_1548,Vikas Singh,vikas.singh82@gmail.com,B.Sc IT,Website Direct,Course Inquiry,Rejected
+INT_1549,Rahul Gupta,rahul.gupta15@gmail.com,B.Sc IT,Website Direct,Full-Time Internship,Rejected
+INT_1550,Rohit Patel,rohit.patel49@gmail.com,MCA,Instagram Ad,Course Inquiry,Contacted
+INT_1551,Ananya Sharma,ananya.sharma74@gmail.com,B.Sc IT,LinkedIn,Full-Time Internship,Contacted
+INT_1552,Neha Sharma,neha.sharma37@gmail.com,B.Tech (AI/ML),Referral,Full-Time Internship,Enrolled
+INT_1553,Vikas Verma,vikas.verma96@gmail.com,B.Tech (AI/ML),Instagram Ad,Course Inquiry,Enrolled
+INT_1554,Kiran Joshi,kiran.joshi15@gmail.com,B.Tech (CS),Telegram,Course Inquiry,Qualified
+INT_1555,Vikas Sharma,vikas.sharma91@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Summer Internship,Qualified
+INT_1556,Aditya Mishra,aditya.mishra98@gmail.com,B.Tech (CS),Referral,Course Inquiry,Qualified
+INT_1557,Rahul Kumar,rahul.kumar62@gmail.com,BTech,WhatsApp Campaign,Full-Time Internship,Contacted
+INT_1558,Sneha Singh,sneha.singh50@gmail.com,B.Tech (AI/ML),Telegram,Course Inquiry,Enrolled
+INT_1559,Sneha Patel,sneha.patel90@gmail.com,MCA,WhatsApp Campaign,Project Guidance,Pending Review
+INT_1560,Neha Mehta,neha.mehta16@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Project Guidance,Pending Review
+INT_1561,Rohit Singh,rohit.singh85@gmail.com,BCA,Website Direct,Project Guidance,Pending Review
+INT_1562,Kiran Yadav,kiran.yadav75@gmail.com,MCA,LinkedIn,Full-Time Internship,Qualified
+INT_1563,Priya Singh,priya.singh73@gmail.com,M.Tech,Instagram Ad,Summer Internship,Rejected
+INT_1564,Deepak Gupta,deepak.gupta15@gmail.com,B.Sc IT,Instagram Ad,Course Inquiry,Qualified
+INT_1565,Aditya Verma,aditya.verma52@gmail.com,BTech,Website Direct,Summer Internship,Qualified
+INT_1566,Sneha Singh,sneha.singh26@gmail.com,B.Sc IT,Website Direct,Full-Time Internship,Contacted
+INT_1567,Kiran Verma,kiran.verma50@gmail.com,BCA,Instagram Ad,Course Inquiry,Enrolled
+INT_1568,Priya Mehta,priya.mehta29@gmail.com,MCA,Referral,Course Inquiry,Enrolled
+INT_1569,Pooja Singh,pooja.singh36@gmail.com,BCA,Website Direct,Summer Internship,Pending Review
+INT_1570,Neha Mishra,neha.mishra73@gmail.com,MCA,Instagram Ad,Project Guidance,Pending Review
+INT_1571,Aditya Mishra,aditya.mishra66@gmail.com,M.Tech,Instagram Ad,Course Inquiry,Rejected
+INT_1572,Ananya Kumar,ananya.kumar79@gmail.com,BTech,Telegram,Full-Time Internship,Contacted
+INT_1573,Ananya Joshi,ananya.joshi98@gmail.com,B.Tech (AI/ML),Referral,Full-Time Internship,Qualified
+INT_1574,Ananya Sharma,ananya.sharma39@gmail.com,B.Tech (AI/ML),LinkedIn,Summer Internship,Enrolled
+INT_1575,Aditya Singh,aditya.singh99@gmail.com,BTech,LinkedIn,Summer Internship,Pending Review
+INT_1576,Rahul Gupta,rahul.gupta39@gmail.com,BTech,Instagram Ad,Course Inquiry,Rejected
+INT_1577,Ananya Gupta,ananya.gupta91@gmail.com,M.Tech,Instagram Ad,Summer Internship,Qualified
+INT_1578,Pooja Kumar,pooja.kumar97@gmail.com,B.Tech (AI/ML),Referral,Project Guidance,Contacted
+INT_1579,Vikas Mishra,vikas.mishra73@gmail.com,BCA,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1580,Rahul Kumar,rahul.kumar63@gmail.com,BTech,Telegram,Full-Time Internship,Rejected
+INT_1581,Aditya Singh,aditya.singh58@gmail.com,BTech,Referral,Summer Internship,Contacted
+INT_1582,Rohit Singh,rohit.singh16@gmail.com,MCA,WhatsApp Campaign,Course Inquiry,Enrolled
+INT_1583,Pooja Singh,pooja.singh67@gmail.com,M.Tech,Instagram Ad,Project Guidance,Enrolled
+INT_1584,Pooja Mehta,pooja.mehta39@gmail.com,M.Tech,WhatsApp Campaign,Course Inquiry,Enrolled
+INT_1585,Rohit Kumar,rohit.kumar87@gmail.com,B.Tech (AI/ML),Referral,Project Guidance,Contacted
+INT_1586,Sneha Verma,sneha.verma25@gmail.com,M.Tech,Referral,Course Inquiry,Enrolled
+INT_1587,Priya Yadav,priya.yadav31@gmail.com,B.Sc IT,LinkedIn,Full-Time Internship,Pending Review
+INT_1588,Sneha Mehta,sneha.mehta75@gmail.com,B.Tech (CS),Referral,Course Inquiry,Pending Review
+INT_1589,Neha Gupta,neha.gupta86@gmail.com,BCA,LinkedIn,Course Inquiry,Qualified
+INT_1590,Vikas Gupta,vikas.gupta74@gmail.com,BTech,Website Direct,Project Guidance,Qualified
+INT_1591,Aman Mishra,aman.mishra33@gmail.com,BCA,Referral,Course Inquiry,Qualified
+INT_1592,Vikas Verma,vikas.verma61@gmail.com,B.Tech (CS),LinkedIn,Summer Internship,Contacted
+INT_1593,Aman Mehta,aman.mehta54@gmail.com,BCA,Website Direct,Summer Internship,Pending Review
+INT_1594,Neha Yadav,neha.yadav89@gmail.com,B.Tech (CS),Telegram,Project Guidance,Enrolled
+INT_1595,Ananya Joshi,ananya.joshi50@gmail.com,BTech,Website Direct,Course Inquiry,Enrolled
+INT_1596,Rohit Verma,rohit.verma17@gmail.com,BCA,Telegram,Project Guidance,Rejected
+INT_1597,Rahul Sharma,rahul.sharma47@gmail.com,BTech,Instagram Ad,Summer Internship,Rejected
+INT_1598,Aman Patel,aman.patel76@gmail.com,M.Tech,LinkedIn,Project Guidance,Pending Review
+INT_1599,Priya Singh,priya.singh18@gmail.com,B.Tech (CS),LinkedIn,Summer Internship,Rejected
+INT_1600,Rahul Mehta,rahul.mehta18@gmail.com,MCA,Referral,Summer Internship,Rejected
+INT_1601,Kiran Singh,kiran.singh65@gmail.com,MCA,LinkedIn,Course Inquiry,Enrolled
+INT_1602,Pooja Gupta,pooja.gupta77@gmail.com,MCA,Instagram Ad,Project Guidance,Contacted
+INT_1603,Kiran Joshi,kiran.joshi39@gmail.com,M.Tech,Instagram Ad,Course Inquiry,Contacted
+INT_1604,Aman Gupta,aman.gupta36@gmail.com,MCA,Instagram Ad,Summer Internship,Pending Review
+INT_1605,Rahul Gupta,rahul.gupta95@gmail.com,BCA,Telegram,Course Inquiry,Rejected
+INT_1606,Pooja Kumar,pooja.kumar17@gmail.com,M.Tech,Instagram Ad,Full-Time Internship,Pending Review
+INT_1607,Neha Sharma,neha.sharma20@gmail.com,B.Tech (CS),Instagram Ad,Course Inquiry,Rejected
+INT_1608,Sneha Sharma,sneha.sharma58@gmail.com,BCA,Instagram Ad,Course Inquiry,Rejected
+INT_1609,Aman Verma,aman.verma85@gmail.com,B.Tech (CS),LinkedIn,Summer Internship,Pending Review
+INT_1610,Aman Joshi,aman.joshi17@gmail.com,BCA,LinkedIn,Summer Internship,Rejected
+INT_1611,Rahul Joshi,rahul.joshi54@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Summer Internship,Qualified
+INT_1612,Pooja Yadav,pooja.yadav63@gmail.com,BCA,Telegram,Course Inquiry,Pending Review
+INT_1613,Vikas Mehta,vikas.mehta66@gmail.com,M.Tech,Referral,Project Guidance,Rejected
+INT_1614,Kiran Patel,kiran.patel74@gmail.com,B.Tech (AI/ML),Website Direct,Course Inquiry,Qualified
+INT_1615,Deepak Sharma,deepak.sharma52@gmail.com,MCA,LinkedIn,Project Guidance,Contacted
+INT_1616,Kiran Yadav,kiran.yadav36@gmail.com,B.Tech (CS),Telegram,Summer Internship,Enrolled
+INT_1617,Aditya Sharma,aditya.sharma17@gmail.com,M.Tech,Telegram,Course Inquiry,Qualified
+INT_1618,Ananya Gupta,ananya.gupta26@gmail.com,MCA,Telegram,Project Guidance,Rejected
+INT_1619,Rohit Joshi,rohit.joshi65@gmail.com,BTech,WhatsApp Campaign,Course Inquiry,Qualified
+INT_1620,Rahul Gupta,rahul.gupta45@gmail.com,B.Tech (CS),Instagram Ad,Course Inquiry,Enrolled
+INT_1621,Priya Mehta,priya.mehta39@gmail.com,MCA,LinkedIn,Project Guidance,Enrolled
+INT_1622,Aman Mehta,aman.mehta86@gmail.com,BCA,Telegram,Summer Internship,Qualified
+INT_1623,Priya Mehta,priya.mehta14@gmail.com,B.Sc IT,WhatsApp Campaign,Project Guidance,Enrolled
+INT_1624,Rahul Kumar,rahul.kumar90@gmail.com,MCA,Instagram Ad,Summer Internship,Rejected
+INT_1625,Kiran Singh,kiran.singh82@gmail.com,B.Tech (AI/ML),Instagram Ad,Summer Internship,Pending Review
+INT_1626,Aman Mehta,aman.mehta45@gmail.com,BCA,Instagram Ad,Summer Internship,Contacted
+INT_1627,Rahul Patel,rahul.patel20@gmail.com,B.Tech (AI/ML),Instagram Ad,Course Inquiry,Contacted
+INT_1628,Neha Joshi,neha.joshi26@gmail.com,B.Tech (CS),LinkedIn,Full-Time Internship,Contacted
+INT_1629,Aditya Gupta,aditya.gupta65@gmail.com,B.Sc IT,Telegram,Course Inquiry,Pending Review
+INT_1630,Sneha Patel,sneha.patel47@gmail.com,MCA,Website Direct,Course Inquiry,Pending Review
+INT_1631,Neha Joshi,neha.joshi76@gmail.com,B.Tech (AI/ML),Referral,Project Guidance,Contacted
+INT_1632,Priya Patel,priya.patel73@gmail.com,M.Tech,Referral,Summer Internship,Rejected
+INT_1633,Pooja Mehta,pooja.mehta15@gmail.com,M.Tech,Referral,Full-Time Internship,Enrolled
+INT_1634,Deepak Joshi,deepak.joshi95@gmail.com,BCA,LinkedIn,Full-Time Internship,Pending Review
+INT_1635,Sneha Sharma,sneha.sharma69@gmail.com,B.Sc IT,LinkedIn,Full-Time Internship,Enrolled
+INT_1636,Deepak Gupta,deepak.gupta12@gmail.com,MCA,Telegram,Full-Time Internship,Pending Review
+INT_1637,Pooja Sharma,pooja.sharma70@gmail.com,BTech,Website Direct,Summer Internship,Contacted
+INT_1638,Sneha Verma,sneha.verma43@gmail.com,BTech,Instagram Ad,Full-Time Internship,Contacted
+INT_1639,Priya Yadav,priya.yadav92@gmail.com,B.Tech (AI/ML),Telegram,Project Guidance,Contacted
+INT_1640,Vikas Kumar,vikas.kumar15@gmail.com,BCA,LinkedIn,Summer Internship,Rejected
+INT_1641,Deepak Singh,deepak.singh66@gmail.com,B.Sc IT,Referral,Course Inquiry,Contacted
+INT_1642,Priya Kumar,priya.kumar71@gmail.com,B.Tech (CS),Telegram,Summer Internship,Pending Review
+INT_1643,Deepak Mehta,deepak.mehta96@gmail.com,B.Tech (AI/ML),Website Direct,Project Guidance,Rejected
+INT_1644,Rahul Singh,rahul.singh68@gmail.com,B.Sc IT,Website Direct,Full-Time Internship,Rejected
+INT_1645,Ananya Sharma,ananya.sharma53@gmail.com,M.Tech,Instagram Ad,Project Guidance,Enrolled
+INT_1646,Aditya Sharma,aditya.sharma37@gmail.com,B.Sc IT,LinkedIn,Course Inquiry,Qualified
+INT_1647,Aditya Sharma,aditya.sharma78@gmail.com,B.Tech (CS),LinkedIn,Summer Internship,Enrolled
+INT_1648,Rahul Sharma,rahul.sharma35@gmail.com,BTech,Website Direct,Full-Time Internship,Contacted
+INT_1649,Rohit Gupta,rohit.gupta14@gmail.com,M.Tech,Telegram,Full-Time Internship,Enrolled
+INT_1650,Rahul Verma,rahul.verma68@gmail.com,B.Tech (AI/ML),Instagram Ad,Summer Internship,Rejected
+INT_1651,Rohit Singh,rohit.singh73@gmail.com,BCA,Website Direct,Project Guidance,Pending Review
+INT_1652,Priya Joshi,priya.joshi50@gmail.com,B.Sc IT,Instagram Ad,Full-Time Internship,Pending Review
+INT_1653,Rohit Joshi,rohit.joshi56@gmail.com,B.Tech (CS),Website Direct,Summer Internship,Enrolled
+INT_1654,Neha Kumar,neha.kumar80@gmail.com,BTech,Instagram Ad,Full-Time Internship,Rejected
+INT_1655,Ananya Sharma,ananya.sharma18@gmail.com,B.Tech (CS),WhatsApp Campaign,Course Inquiry,Contacted
+INT_1656,Aman Singh,aman.singh57@gmail.com,BTech,Website Direct,Full-Time Internship,Enrolled
+INT_1657,Neha Joshi,neha.joshi75@gmail.com,B.Tech (AI/ML),LinkedIn,Course Inquiry,Pending Review
+INT_1658,Deepak Mehta,deepak.mehta62@gmail.com,BCA,LinkedIn,Course Inquiry,Pending Review
+INT_1659,Pooja Gupta,pooja.gupta30@gmail.com,M.Tech,WhatsApp Campaign,Summer Internship,Rejected
+INT_1660,Neha Gupta,neha.gupta41@gmail.com,M.Tech,LinkedIn,Project Guidance,Rejected
+INT_1661,Sneha Gupta,sneha.gupta68@gmail.com,B.Tech (AI/ML),Website Direct,Summer Internship,Contacted
+INT_1662,Neha Yadav,neha.yadav67@gmail.com,B.Tech (AI/ML),LinkedIn,Summer Internship,Qualified
+INT_1663,Vikas Yadav,vikas.yadav33@gmail.com,B.Tech (CS),WhatsApp Campaign,Project Guidance,Rejected
+INT_1664,Sneha Mishra,sneha.mishra21@gmail.com,MCA,Instagram Ad,Project Guidance,Qualified
+INT_1665,Aman Sharma,aman.sharma39@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Summer Internship,Pending Review
+INT_1666,Neha Sharma,neha.sharma95@gmail.com,B.Tech (CS),Telegram,Project Guidance,Pending Review
+INT_1667,Rahul Sharma,rahul.sharma50@gmail.com,B.Sc IT,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1668,Pooja Yadav,pooja.yadav80@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Full-Time Internship,Qualified
+INT_1669,Sneha Mehta,sneha.mehta16@gmail.com,B.Sc IT,LinkedIn,Full-Time Internship,Enrolled
+INT_1670,Priya Kumar,priya.kumar32@gmail.com,B.Sc IT,LinkedIn,Full-Time Internship,Pending Review
+INT_1671,Rahul Sharma,rahul.sharma59@gmail.com,MCA,WhatsApp Campaign,Full-Time Internship,Contacted
+INT_1672,Pooja Gupta,pooja.gupta20@gmail.com,B.Tech (AI/ML),Telegram,Summer Internship,Pending Review
+INT_1673,Sneha Verma,sneha.verma43@gmail.com,BCA,LinkedIn,Project Guidance,Contacted
+INT_1674,Neha Singh,neha.singh18@gmail.com,BCA,Website Direct,Project Guidance,Rejected
+INT_1675,Rohit Joshi,rohit.joshi53@gmail.com,MCA,Website Direct,Course Inquiry,Pending Review
+INT_1676,Priya Yadav,priya.yadav61@gmail.com,B.Sc IT,LinkedIn,Course Inquiry,Pending Review
+INT_1677,Priya Sharma,priya.sharma97@gmail.com,B.Tech (CS),LinkedIn,Course Inquiry,Rejected
+INT_1678,Kiran Singh,kiran.singh95@gmail.com,BCA,WhatsApp Campaign,Summer Internship,Rejected
+INT_1679,Neha Mishra,neha.mishra54@gmail.com,B.Tech (CS),WhatsApp Campaign,Summer Internship,Pending Review
+INT_1680,Aditya Mishra,aditya.mishra73@gmail.com,B.Sc IT,Telegram,Course Inquiry,Pending Review
+INT_1681,Rohit Kumar,rohit.kumar12@gmail.com,B.Tech (AI/ML),Instagram Ad,Course Inquiry,Enrolled
+INT_1682,Priya Gupta,priya.gupta66@gmail.com,MCA,LinkedIn,Full-Time Internship,Pending Review
+INT_1683,Priya Mehta,priya.mehta80@gmail.com,M.Tech,Telegram,Project Guidance,Rejected
+INT_1684,Ananya Verma,ananya.verma52@gmail.com,B.Sc IT,Referral,Full-Time Internship,Contacted
+INT_1685,Aditya Mehta,aditya.mehta54@gmail.com,B.Sc IT,WhatsApp Campaign,Full-Time Internship,Qualified
+INT_1686,Pooja Kumar,pooja.kumar49@gmail.com,B.Sc IT,WhatsApp Campaign,Full-Time Internship,Pending Review
+INT_1687,Kiran Mehta,kiran.mehta34@gmail.com,MCA,WhatsApp Campaign,Full-Time Internship,Pending Review
+INT_1688,Sneha Mehta,sneha.mehta71@gmail.com,M.Tech,Instagram Ad,Full-Time Internship,Qualified
+INT_1689,Pooja Gupta,pooja.gupta85@gmail.com,BCA,Telegram,Full-Time Internship,Contacted
+INT_1690,Kiran Singh,kiran.singh54@gmail.com,B.Tech (AI/ML),Instagram Ad,Summer Internship,Qualified
+INT_1691,Pooja Singh,pooja.singh73@gmail.com,BCA,Telegram,Course Inquiry,Pending Review
+INT_1692,Rahul Kumar,rahul.kumar40@gmail.com,BCA,Telegram,Summer Internship,Contacted
+INT_1693,Ananya Singh,ananya.singh50@gmail.com,B.Tech (AI/ML),LinkedIn,Project Guidance,Qualified
+INT_1694,Rohit Sharma,rohit.sharma83@gmail.com,M.Tech,LinkedIn,Summer Internship,Pending Review
+INT_1695,Pooja Mehta,pooja.mehta83@gmail.com,BCA,Referral,Summer Internship,Enrolled
+INT_1696,Sneha Gupta,sneha.gupta95@gmail.com,B.Tech (CS),Instagram Ad,Summer Internship,Qualified
+INT_1697,Kiran Singh,kiran.singh21@gmail.com,BCA,Telegram,Summer Internship,Contacted
+INT_1698,Neha Mishra,neha.mishra84@gmail.com,B.Tech (AI/ML),Website Direct,Course Inquiry,Enrolled
+INT_1699,Aditya Yadav,aditya.yadav52@gmail.com,B.Sc IT,Website Direct,Summer Internship,Pending Review
+INT_1700,Neha Singh,neha.singh85@gmail.com,B.Sc IT,Telegram,Course Inquiry,Pending Review
+INT_1701,Sneha Verma,sneha.verma22@gmail.com,MCA,Telegram,Summer Internship,Enrolled
+INT_1702,Rohit Kumar,rohit.kumar16@gmail.com,MCA,WhatsApp Campaign,Project Guidance,Contacted
+INT_1703,Priya Verma,priya.verma18@gmail.com,BCA,Referral,Project Guidance,Qualified
+INT_1704,Rohit Singh,rohit.singh21@gmail.com,B.Tech (AI/ML),Instagram Ad,Summer Internship,Contacted
+INT_1705,Vikas Kumar,vikas.kumar98@gmail.com,BTech,Website Direct,Project Guidance,Qualified
+INT_1706,Rohit Sharma,rohit.sharma32@gmail.com,B.Tech (AI/ML),Telegram,Summer Internship,Qualified
+INT_1707,Deepak Patel,deepak.patel87@gmail.com,BCA,LinkedIn,Course Inquiry,Rejected
+INT_1708,Priya Sharma,priya.sharma77@gmail.com,B.Tech (CS),Instagram Ad,Full-Time Internship,Contacted
+INT_1709,Ananya Mishra,ananya.mishra52@gmail.com,BTech,Telegram,Course Inquiry,Pending Review
+INT_1710,Kiran Mehta,kiran.mehta23@gmail.com,BCA,Telegram,Summer Internship,Pending Review
+INT_1711,Pooja Mishra,pooja.mishra60@gmail.com,BCA,Website Direct,Course Inquiry,Enrolled
+INT_1712,Kiran Gupta,kiran.gupta15@gmail.com,M.Tech,Website Direct,Course Inquiry,Qualified
+INT_1713,Sneha Yadav,sneha.yadav89@gmail.com,B.Tech (AI/ML),Website Direct,Full-Time Internship,Pending Review
+INT_1714,Ananya Yadav,ananya.yadav97@gmail.com,BCA,LinkedIn,Course Inquiry,Pending Review
+INT_1715,Aman Patel,aman.patel55@gmail.com,M.Tech,LinkedIn,Course Inquiry,Rejected
+INT_1716,Aman Mishra,aman.mishra57@gmail.com,B.Tech (CS),WhatsApp Campaign,Full-Time Internship,Pending Review
+INT_1717,Pooja Gupta,pooja.gupta38@gmail.com,M.Tech,Telegram,Project Guidance,Rejected
+INT_1718,Rahul Yadav,rahul.yadav25@gmail.com,BTech,Website Direct,Course Inquiry,Pending Review
+INT_1719,Rahul Joshi,rahul.joshi61@gmail.com,B.Tech (AI/ML),LinkedIn,Summer Internship,Contacted
+INT_1720,Rohit Mehta,rohit.mehta28@gmail.com,BCA,WhatsApp Campaign,Full-Time Internship,Pending Review
+INT_1721,Kiran Mishra,kiran.mishra98@gmail.com,B.Sc IT,Instagram Ad,Project Guidance,Pending Review
+INT_1722,Deepak Sharma,deepak.sharma34@gmail.com,BTech,Telegram,Course Inquiry,Enrolled
+INT_1723,Rahul Gupta,rahul.gupta72@gmail.com,M.Tech,Referral,Full-Time Internship,Rejected
+INT_1724,Priya Sharma,priya.sharma91@gmail.com,B.Sc IT,Telegram,Summer Internship,Enrolled
+INT_1725,Kiran Singh,kiran.singh77@gmail.com,B.Sc IT,Telegram,Full-Time Internship,Enrolled
+INT_1726,Pooja Singh,pooja.singh26@gmail.com,MCA,WhatsApp Campaign,Summer Internship,Pending Review
+INT_1727,Aditya Patel,aditya.patel28@gmail.com,M.Tech,Referral,Full-Time Internship,Pending Review
+INT_1728,Vikas Verma,vikas.verma46@gmail.com,BTech,LinkedIn,Summer Internship,Rejected
+INT_1729,Sneha Mishra,sneha.mishra28@gmail.com,BTech,Website Direct,Full-Time Internship,Pending Review
+INT_1730,Ananya Yadav,ananya.yadav18@gmail.com,M.Tech,Referral,Course Inquiry,Enrolled
+INT_1731,Pooja Singh,pooja.singh18@gmail.com,BTech,Telegram,Full-Time Internship,Qualified
+INT_1732,Ananya Patel,ananya.patel86@gmail.com,MCA,Referral,Project Guidance,Enrolled
+INT_1733,Pooja Mishra,pooja.mishra55@gmail.com,MCA,Referral,Full-Time Internship,Enrolled
+INT_1734,Kiran Yadav,kiran.yadav67@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Course Inquiry,Contacted
+INT_1735,Pooja Yadav,pooja.yadav88@gmail.com,BTech,Telegram,Course Inquiry,Rejected
+INT_1736,Pooja Mishra,pooja.mishra89@gmail.com,BCA,LinkedIn,Course Inquiry,Pending Review
+INT_1737,Priya Verma,priya.verma99@gmail.com,BCA,Instagram Ad,Course Inquiry,Pending Review
+INT_1738,Rohit Verma,rohit.verma84@gmail.com,BCA,LinkedIn,Summer Internship,Enrolled
+INT_1739,Priya Yadav,priya.yadav32@gmail.com,BCA,Referral,Project Guidance,Qualified
+INT_1740,Vikas Gupta,vikas.gupta43@gmail.com,B.Tech (AI/ML),LinkedIn,Project Guidance,Qualified
+INT_1741,Pooja Singh,pooja.singh70@gmail.com,M.Tech,WhatsApp Campaign,Project Guidance,Pending Review
+INT_1742,Deepak Yadav,deepak.yadav95@gmail.com,M.Tech,Website Direct,Full-Time Internship,Enrolled
+INT_1743,Pooja Verma,pooja.verma16@gmail.com,M.Tech,Telegram,Project Guidance,Pending Review
+INT_1744,Rohit Mishra,rohit.mishra93@gmail.com,B.Sc IT,Referral,Project Guidance,Enrolled
+INT_1745,Kiran Singh,kiran.singh80@gmail.com,BCA,Telegram,Course Inquiry,Qualified
+INT_1746,Rahul Patel,rahul.patel74@gmail.com,B.Sc IT,WhatsApp Campaign,Project Guidance,Contacted
+INT_1747,Pooja Singh,pooja.singh41@gmail.com,B.Tech (AI/ML),Website Direct,Summer Internship,Enrolled
+INT_1748,Rahul Kumar,rahul.kumar75@gmail.com,B.Sc IT,WhatsApp Campaign,Project Guidance,Pending Review
+INT_1749,Deepak Joshi,deepak.joshi89@gmail.com,BTech,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1750,Ananya Mishra,ananya.mishra30@gmail.com,B.Tech (CS),Telegram,Full-Time Internship,Pending Review
+INT_1751,Vikas Singh,vikas.singh81@gmail.com,M.Tech,Instagram Ad,Full-Time Internship,Enrolled
+INT_1752,Aditya Joshi,aditya.joshi95@gmail.com,B.Tech (CS),Instagram Ad,Full-Time Internship,Enrolled
+INT_1753,Deepak Kumar,deepak.kumar65@gmail.com,M.Tech,WhatsApp Campaign,Summer Internship,Rejected
+INT_1754,Ananya Singh,ananya.singh89@gmail.com,B.Tech (AI/ML),LinkedIn,Summer Internship,Contacted
+INT_1755,Rohit Singh,rohit.singh71@gmail.com,BTech,LinkedIn,Full-Time Internship,Qualified
+INT_1756,Neha Mishra,neha.mishra89@gmail.com,B.Tech (CS),WhatsApp Campaign,Course Inquiry,Rejected
+INT_1757,Deepak Sharma,deepak.sharma77@gmail.com,B.Tech (AI/ML),Website Direct,Full-Time Internship,Enrolled
+INT_1758,Rahul Joshi,rahul.joshi51@gmail.com,B.Tech (CS),Website Direct,Full-Time Internship,Contacted
+INT_1759,Kiran Mishra,kiran.mishra69@gmail.com,MCA,Instagram Ad,Project Guidance,Rejected
+INT_1760,Rohit Verma,rohit.verma87@gmail.com,B.Sc IT,Telegram,Project Guidance,Pending Review
+INT_1761,Neha Patel,neha.patel79@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Project Guidance,Pending Review
+INT_1762,Rohit Mishra,rohit.mishra91@gmail.com,B.Sc IT,Instagram Ad,Full-Time Internship,Pending Review
+INT_1763,Pooja Sharma,pooja.sharma10@gmail.com,BTech,LinkedIn,Full-Time Internship,Contacted
+INT_1764,Rahul Sharma,rahul.sharma96@gmail.com,M.Tech,Referral,Summer Internship,Enrolled
+INT_1765,Kiran Verma,kiran.verma51@gmail.com,BTech,Instagram Ad,Summer Internship,Rejected
+INT_1766,Priya Verma,priya.verma71@gmail.com,M.Tech,Website Direct,Summer Internship,Pending Review
+INT_1767,Neha Verma,neha.verma44@gmail.com,MCA,WhatsApp Campaign,Course Inquiry,Qualified
+INT_1768,Aditya Singh,aditya.singh82@gmail.com,B.Sc IT,Referral,Summer Internship,Pending Review
+INT_1769,Pooja Yadav,pooja.yadav30@gmail.com,MCA,Instagram Ad,Summer Internship,Enrolled
+INT_1770,Pooja Singh,pooja.singh24@gmail.com,M.Tech,Referral,Project Guidance,Pending Review
+INT_1771,Pooja Mishra,pooja.mishra11@gmail.com,BCA,WhatsApp Campaign,Full-Time Internship,Pending Review
+INT_1772,Neha Kumar,neha.kumar51@gmail.com,BCA,Instagram Ad,Full-Time Internship,Rejected
+INT_1773,Ananya Singh,ananya.singh99@gmail.com,M.Tech,WhatsApp Campaign,Course Inquiry,Contacted
+INT_1774,Aditya Verma,aditya.verma88@gmail.com,B.Tech (AI/ML),Referral,Project Guidance,Pending Review
+INT_1775,Rohit Patel,rohit.patel85@gmail.com,BTech,WhatsApp Campaign,Project Guidance,Qualified
+INT_1776,Rahul Sharma,rahul.sharma37@gmail.com,M.Tech,Referral,Summer Internship,Qualified
+INT_1777,Sneha Joshi,sneha.joshi99@gmail.com,M.Tech,WhatsApp Campaign,Full-Time Internship,Contacted
+INT_1778,Aman Kumar,aman.kumar29@gmail.com,B.Sc IT,LinkedIn,Full-Time Internship,Enrolled
+INT_1779,Rohit Patel,rohit.patel70@gmail.com,B.Sc IT,Referral,Project Guidance,Enrolled
+INT_1780,Deepak Singh,deepak.singh42@gmail.com,BCA,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1781,Deepak Yadav,deepak.yadav58@gmail.com,B.Tech (CS),Telegram,Course Inquiry,Enrolled
+INT_1782,Aditya Yadav,aditya.yadav72@gmail.com,MCA,WhatsApp Campaign,Project Guidance,Enrolled
+INT_1783,Rohit Singh,rohit.singh75@gmail.com,MCA,LinkedIn,Project Guidance,Rejected
+INT_1784,Rohit Kumar,rohit.kumar29@gmail.com,BTech,WhatsApp Campaign,Course Inquiry,Qualified
+INT_1785,Vikas Patel,vikas.patel78@gmail.com,M.Tech,Instagram Ad,Summer Internship,Enrolled
+INT_1786,Ananya Kumar,ananya.kumar83@gmail.com,B.Tech (CS),WhatsApp Campaign,Project Guidance,Pending Review
+INT_1787,Kiran Verma,kiran.verma45@gmail.com,MCA,Telegram,Course Inquiry,Qualified
+INT_1788,Ananya Joshi,ananya.joshi11@gmail.com,MCA,Instagram Ad,Project Guidance,Enrolled
+INT_1789,Pooja Verma,pooja.verma54@gmail.com,B.Tech (AI/ML),Instagram Ad,Full-Time Internship,Enrolled
+INT_1790,Sneha Yadav,sneha.yadav83@gmail.com,BTech,LinkedIn,Summer Internship,Rejected
+INT_1791,Rohit Sharma,rohit.sharma45@gmail.com,BTech,Referral,Full-Time Internship,Rejected
+INT_1792,Kiran Kumar,kiran.kumar20@gmail.com,B.Tech (CS),Telegram,Project Guidance,Contacted
+INT_1793,Kiran Verma,kiran.verma29@gmail.com,B.Tech (CS),LinkedIn,Full-Time Internship,Contacted
+INT_1794,Priya Gupta,priya.gupta96@gmail.com,B.Sc IT,Instagram Ad,Full-Time Internship,Qualified
+INT_1795,Neha Mehta,neha.mehta45@gmail.com,MCA,Referral,Course Inquiry,Pending Review
+INT_1796,Kiran Verma,kiran.verma67@gmail.com,B.Tech (CS),Referral,Full-Time Internship,Enrolled
+INT_1797,Priya Sharma,priya.sharma77@gmail.com,B.Tech (CS),Referral,Course Inquiry,Rejected
+INT_1798,Aman Joshi,aman.joshi96@gmail.com,MCA,Website Direct,Project Guidance,Rejected
+INT_1799,Kiran Sharma,kiran.sharma83@gmail.com,BCA,Referral,Course Inquiry,Pending Review
+INT_1800,Rohit Sharma,rohit.sharma78@gmail.com,B.Sc IT,Telegram,Project Guidance,Rejected
+INT_1801,Neha Mehta,neha.mehta39@gmail.com,B.Tech (CS),Telegram,Summer Internship,Pending Review
+INT_1802,Ananya Singh,ananya.singh93@gmail.com,B.Tech (CS),Website Direct,Project Guidance,Pending Review
+INT_1803,Aditya Gupta,aditya.gupta24@gmail.com,B.Tech (CS),Referral,Full-Time Internship,Qualified
+INT_1804,Vikas Sharma,vikas.sharma69@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Full-Time Internship,Rejected
+INT_1805,Rohit Kumar,rohit.kumar74@gmail.com,BCA,Telegram,Project Guidance,Pending Review
+INT_1806,Ananya Verma,ananya.verma23@gmail.com,BTech,Referral,Course Inquiry,Pending Review
+INT_1807,Kiran Mehta,kiran.mehta49@gmail.com,BTech,LinkedIn,Project Guidance,Contacted
+INT_1808,Rahul Patel,rahul.patel64@gmail.com,M.Tech,Referral,Project Guidance,Qualified
+INT_1809,Sneha Verma,sneha.verma38@gmail.com,MCA,Referral,Summer Internship,Qualified
+INT_1810,Rohit Joshi,rohit.joshi62@gmail.com,BCA,LinkedIn,Course Inquiry,Rejected
+INT_1811,Kiran Singh,kiran.singh40@gmail.com,M.Tech,LinkedIn,Course Inquiry,Pending Review
+INT_1812,Aditya Singh,aditya.singh25@gmail.com,BTech,Referral,Full-Time Internship,Enrolled
+INT_1813,Pooja Sharma,pooja.sharma50@gmail.com,B.Sc IT,Telegram,Full-Time Internship,Contacted
+INT_1814,Rohit Patel,rohit.patel66@gmail.com,B.Tech (AI/ML),Website Direct,Course Inquiry,Qualified
+INT_1815,Aman Kumar,aman.kumar99@gmail.com,M.Tech,Referral,Project Guidance,Qualified
+INT_1816,Sneha Verma,sneha.verma29@gmail.com,BCA,WhatsApp Campaign,Summer Internship,Enrolled
+INT_1817,Ananya Patel,ananya.patel10@gmail.com,BCA,Instagram Ad,Summer Internship,Contacted
+INT_1818,Sneha Verma,sneha.verma55@gmail.com,M.Tech,Referral,Summer Internship,Contacted
+INT_1819,Rahul Verma,rahul.verma11@gmail.com,MCA,Referral,Project Guidance,Contacted
+INT_1820,Aditya Joshi,aditya.joshi82@gmail.com,BTech,Website Direct,Full-Time Internship,Contacted
+INT_1821,Rohit Gupta,rohit.gupta54@gmail.com,BCA,WhatsApp Campaign,Course Inquiry,Enrolled
+INT_1822,Priya Singh,priya.singh34@gmail.com,BCA,Instagram Ad,Project Guidance,Contacted
+INT_1823,Rahul Kumar,rahul.kumar36@gmail.com,M.Tech,WhatsApp Campaign,Summer Internship,Pending Review
+INT_1824,Aditya Yadav,aditya.yadav47@gmail.com,M.Tech,Telegram,Full-Time Internship,Qualified
+INT_1825,Deepak Patel,deepak.patel56@gmail.com,BCA,Telegram,Course Inquiry,Pending Review
+INT_1826,Aditya Mehta,aditya.mehta97@gmail.com,BCA,Website Direct,Full-Time Internship,Qualified
+INT_1827,Rohit Verma,rohit.verma15@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Full-Time Internship,Rejected
+INT_1828,Sneha Gupta,sneha.gupta16@gmail.com,BCA,LinkedIn,Summer Internship,Contacted
+INT_1829,Neha Mehta,neha.mehta78@gmail.com,BCA,LinkedIn,Course Inquiry,Enrolled
+INT_1830,Neha Verma,neha.verma57@gmail.com,B.Tech (CS),WhatsApp Campaign,Course Inquiry,Rejected
+INT_1831,Vikas Gupta,vikas.gupta14@gmail.com,BTech,Website Direct,Summer Internship,Rejected
+INT_1832,Priya Mishra,priya.mishra72@gmail.com,M.Tech,Telegram,Project Guidance,Qualified
+INT_1833,Ananya Gupta,ananya.gupta49@gmail.com,BTech,Telegram,Summer Internship,Contacted
+INT_1834,Deepak Yadav,deepak.yadav40@gmail.com,M.Tech,Referral,Project Guidance,Qualified
+INT_1835,Rahul Kumar,rahul.kumar81@gmail.com,BCA,Referral,Course Inquiry,Pending Review
+INT_1836,Priya Gupta,priya.gupta80@gmail.com,B.Sc IT,Website Direct,Full-Time Internship,Contacted
+INT_1837,Rahul Mehta,rahul.mehta82@gmail.com,BCA,Instagram Ad,Full-Time Internship,Contacted
+INT_1838,Neha Yadav,neha.yadav25@gmail.com,MCA,Website Direct,Summer Internship,Contacted
+INT_1839,Pooja Patel,pooja.patel29@gmail.com,B.Sc IT,Telegram,Full-Time Internship,Pending Review
+INT_1840,Aman Singh,aman.singh16@gmail.com,BCA,Referral,Course Inquiry,Qualified
+INT_1841,Neha Kumar,neha.kumar32@gmail.com,M.Tech,Website Direct,Summer Internship,Contacted
+INT_1842,Aditya Mehta,aditya.mehta90@gmail.com,BCA,Website Direct,Summer Internship,Enrolled
+INT_1843,Ananya Mishra,ananya.mishra97@gmail.com,M.Tech,Instagram Ad,Project Guidance,Qualified
+INT_1844,Deepak Patel,deepak.patel83@gmail.com,B.Tech (CS),WhatsApp Campaign,Summer Internship,Enrolled
+INT_1845,Deepak Mishra,deepak.mishra54@gmail.com,B.Sc IT,Instagram Ad,Summer Internship,Enrolled
+INT_1846,Neha Mishra,neha.mishra64@gmail.com,MCA,Website Direct,Full-Time Internship,Qualified
+INT_1847,Deepak Kumar,deepak.kumar40@gmail.com,B.Tech (AI/ML),Website Direct,Full-Time Internship,Enrolled
+INT_1848,Deepak Sharma,deepak.sharma96@gmail.com,BCA,LinkedIn,Course Inquiry,Rejected
+INT_1849,Kiran Singh,kiran.singh74@gmail.com,MCA,Telegram,Project Guidance,Rejected
+INT_1850,Ananya Patel,ananya.patel77@gmail.com,BTech,Instagram Ad,Course Inquiry,Qualified
+INT_1851,Aman Kumar,aman.kumar43@gmail.com,B.Sc IT,LinkedIn,Project Guidance,Contacted
+INT_1852,Ananya Gupta,ananya.gupta74@gmail.com,M.Tech,Referral,Project Guidance,Rejected
+INT_1853,Rohit Sharma,rohit.sharma67@gmail.com,BTech,Instagram Ad,Summer Internship,Contacted
+INT_1854,Pooja Verma,pooja.verma92@gmail.com,B.Tech (AI/ML),LinkedIn,Full-Time Internship,Pending Review
+INT_1855,Rohit Sharma,rohit.sharma97@gmail.com,BTech,Instagram Ad,Summer Internship,Contacted
+INT_1856,Pooja Mehta,pooja.mehta49@gmail.com,B.Tech (CS),LinkedIn,Summer Internship,Qualified
+INT_1857,Vikas Kumar,vikas.kumar72@gmail.com,B.Tech (AI/ML),Instagram Ad,Project Guidance,Rejected
+INT_1858,Neha Sharma,neha.sharma30@gmail.com,M.Tech,Instagram Ad,Project Guidance,Enrolled
+INT_1859,Rohit Joshi,rohit.joshi43@gmail.com,M.Tech,Referral,Course Inquiry,Contacted
+INT_1860,Neha Patel,neha.patel39@gmail.com,BCA,WhatsApp Campaign,Course Inquiry,Pending Review
+INT_1861,Rohit Yadav,rohit.yadav80@gmail.com,B.Sc IT,Telegram,Full-Time Internship,Enrolled
+INT_1862,Aman Mehta,aman.mehta55@gmail.com,B.Tech (CS),Referral,Course Inquiry,Qualified
+INT_1863,Aman Mehta,aman.mehta81@gmail.com,BTech,Instagram Ad,Course Inquiry,Rejected
+INT_1864,Deepak Gupta,deepak.gupta92@gmail.com,B.Tech (CS),WhatsApp Campaign,Project Guidance,Pending Review
+INT_1865,Vikas Kumar,vikas.kumar59@gmail.com,B.Tech (AI/ML),LinkedIn,Course Inquiry,Rejected
+INT_1866,Sneha Patel,sneha.patel10@gmail.com,M.Tech,Referral,Project Guidance,Contacted
+INT_1867,Ananya Kumar,ananya.kumar83@gmail.com,BCA,LinkedIn,Course Inquiry,Enrolled
+INT_1868,Rahul Patel,rahul.patel99@gmail.com,B.Tech (AI/ML),Instagram Ad,Project Guidance,Pending Review
+INT_1869,Sneha Singh,sneha.singh54@gmail.com,B.Tech (AI/ML),Instagram Ad,Project Guidance,Rejected
+INT_1870,Ananya Mehta,ananya.mehta42@gmail.com,B.Tech (CS),Referral,Course Inquiry,Pending Review
+INT_1871,Vikas Verma,vikas.verma82@gmail.com,B.Tech (AI/ML),Website Direct,Course Inquiry,Contacted
+INT_1872,Rahul Mehta,rahul.mehta59@gmail.com,MCA,Instagram Ad,Full-Time Internship,Pending Review
+INT_1873,Deepak Verma,deepak.verma44@gmail.com,B.Tech (CS),Instagram Ad,Summer Internship,Enrolled
+INT_1874,Deepak Verma,deepak.verma69@gmail.com,B.Sc IT,Referral,Summer Internship,Qualified
+INT_1875,Vikas Mehta,vikas.mehta77@gmail.com,B.Tech (AI/ML),LinkedIn,Project Guidance,Enrolled
+INT_1876,Ananya Kumar,ananya.kumar34@gmail.com,M.Tech,LinkedIn,Full-Time Internship,Enrolled
+INT_1877,Aman Mishra,aman.mishra80@gmail.com,BTech,LinkedIn,Full-Time Internship,Qualified
+INT_1878,Aman Sharma,aman.sharma56@gmail.com,BTech,LinkedIn,Project Guidance,Qualified
+INT_1879,Aditya Joshi,aditya.joshi37@gmail.com,M.Tech,Website Direct,Course Inquiry,Contacted
+INT_1880,Deepak Yadav,deepak.yadav63@gmail.com,MCA,Referral,Summer Internship,Contacted
+INT_1881,Aditya Singh,aditya.singh96@gmail.com,B.Sc IT,Instagram Ad,Course Inquiry,Enrolled
+INT_1882,Deepak Kumar,deepak.kumar31@gmail.com,B.Tech (AI/ML),LinkedIn,Project Guidance,Qualified
+INT_1883,Priya Mehta,priya.mehta26@gmail.com,B.Tech (CS),WhatsApp Campaign,Project Guidance,Rejected
+INT_1884,Rohit Verma,rohit.verma38@gmail.com,BTech,Referral,Summer Internship,Rejected
+INT_1885,Aman Patel,aman.patel74@gmail.com,M.Tech,Referral,Summer Internship,Pending Review
+INT_1886,Rohit Yadav,rohit.yadav43@gmail.com,BCA,Referral,Summer Internship,Pending Review
+INT_1887,Vikas Joshi,vikas.joshi25@gmail.com,BTech,Website Direct,Summer Internship,Rejected
+INT_1888,Sneha Joshi,sneha.joshi54@gmail.com,BCA,Website Direct,Project Guidance,Qualified
+INT_1889,Rohit Joshi,rohit.joshi21@gmail.com,MCA,Instagram Ad,Course Inquiry,Pending Review
+INT_1890,Neha Singh,neha.singh14@gmail.com,B.Tech (AI/ML),LinkedIn,Project Guidance,Enrolled
+INT_1891,Rohit Joshi,rohit.joshi58@gmail.com,B.Sc IT,Referral,Course Inquiry,Enrolled
+INT_1892,Rohit Yadav,rohit.yadav41@gmail.com,BTech,Telegram,Summer Internship,Qualified
+INT_1893,Rohit Yadav,rohit.yadav22@gmail.com,BCA,WhatsApp Campaign,Summer Internship,Rejected
+INT_1894,Ananya Singh,ananya.singh63@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Full-Time Internship,Rejected
+INT_1895,Kiran Verma,kiran.verma75@gmail.com,BTech,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1896,Aman Mishra,aman.mishra21@gmail.com,M.Tech,Instagram Ad,Course Inquiry,Qualified
+INT_1897,Aditya Mishra,aditya.mishra16@gmail.com,M.Tech,Referral,Course Inquiry,Enrolled
+INT_1898,Neha Singh,neha.singh49@gmail.com,B.Tech (CS),Website Direct,Project Guidance,Enrolled
+INT_1899,Aman Singh,aman.singh85@gmail.com,B.Tech (AI/ML),Website Direct,Project Guidance,Pending Review
+INT_1900,Neha Patel,neha.patel25@gmail.com,B.Tech (CS),Instagram Ad,Course Inquiry,Qualified
+INT_1901,Deepak Patel,deepak.patel77@gmail.com,B.Sc IT,WhatsApp Campaign,Course Inquiry,Rejected
+INT_1902,Kiran Joshi,kiran.joshi27@gmail.com,BTech,WhatsApp Campaign,Project Guidance,Contacted
+INT_1903,Neha Patel,neha.patel90@gmail.com,M.Tech,Referral,Full-Time Internship,Qualified
+INT_1904,Vikas Singh,vikas.singh47@gmail.com,BTech,Telegram,Project Guidance,Qualified
+INT_1905,Rohit Gupta,rohit.gupta50@gmail.com,M.Tech,LinkedIn,Project Guidance,Enrolled
+INT_1906,Pooja Verma,pooja.verma46@gmail.com,BCA,LinkedIn,Summer Internship,Pending Review
+INT_1907,Rahul Sharma,rahul.sharma44@gmail.com,B.Tech (CS),LinkedIn,Course Inquiry,Contacted
+INT_1908,Aditya Kumar,aditya.kumar45@gmail.com,M.Tech,Instagram Ad,Full-Time Internship,Contacted
+INT_1909,Sneha Verma,sneha.verma17@gmail.com,BCA,Referral,Full-Time Internship,Qualified
+INT_1910,Priya Kumar,priya.kumar41@gmail.com,BCA,WhatsApp Campaign,Project Guidance,Rejected
+INT_1911,Sneha Mishra,sneha.mishra69@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Course Inquiry,Pending Review
+INT_1912,Rahul Sharma,rahul.sharma55@gmail.com,B.Sc IT,WhatsApp Campaign,Project Guidance,Pending Review
+INT_1913,Aditya Singh,aditya.singh21@gmail.com,BCA,Referral,Summer Internship,Enrolled
+INT_1914,Priya Verma,priya.verma12@gmail.com,B.Sc IT,Instagram Ad,Summer Internship,Qualified
+INT_1915,Aman Patel,aman.patel61@gmail.com,B.Tech (CS),Instagram Ad,Project Guidance,Rejected
+INT_1916,Vikas Mishra,vikas.mishra61@gmail.com,B.Tech (CS),Website Direct,Summer Internship,Contacted
+INT_1917,Priya Mishra,priya.mishra96@gmail.com,BCA,Referral,Course Inquiry,Contacted
+INT_1918,Vikas Sharma,vikas.sharma85@gmail.com,B.Sc IT,WhatsApp Campaign,Course Inquiry,Rejected
+INT_1919,Neha Patel,neha.patel77@gmail.com,M.Tech,Website Direct,Full-Time Internship,Qualified
+INT_1920,Neha Singh,neha.singh93@gmail.com,BTech,Instagram Ad,Project Guidance,Enrolled
+INT_1921,Pooja Kumar,pooja.kumar69@gmail.com,BTech,Website Direct,Project Guidance,Enrolled
+INT_1922,Sneha Gupta,sneha.gupta29@gmail.com,BTech,Website Direct,Course Inquiry,Contacted
+INT_1923,Pooja Yadav,pooja.yadav37@gmail.com,MCA,WhatsApp Campaign,Course Inquiry,Pending Review
+INT_1924,Aman Patel,aman.patel25@gmail.com,B.Tech (CS),Website Direct,Summer Internship,Enrolled
+INT_1925,Sneha Joshi,sneha.joshi95@gmail.com,BTech,Website Direct,Summer Internship,Pending Review
+INT_1926,Priya Mishra,priya.mishra83@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Project Guidance,Pending Review
+INT_1927,Kiran Singh,kiran.singh69@gmail.com,B.Sc IT,Website Direct,Course Inquiry,Enrolled
+INT_1928,Ananya Mehta,ananya.mehta18@gmail.com,BTech,Instagram Ad,Summer Internship,Rejected
+INT_1929,Pooja Gupta,pooja.gupta87@gmail.com,MCA,Referral,Project Guidance,Enrolled
+INT_1930,Aditya Patel,aditya.patel28@gmail.com,B.Sc IT,WhatsApp Campaign,Full-Time Internship,Rejected
+INT_1931,Rohit Mehta,rohit.mehta59@gmail.com,MCA,Referral,Full-Time Internship,Contacted
+INT_1932,Kiran Patel,kiran.patel29@gmail.com,MCA,LinkedIn,Project Guidance,Contacted
+INT_1933,Sneha Joshi,sneha.joshi69@gmail.com,B.Tech (CS),WhatsApp Campaign,Summer Internship,Contacted
+INT_1934,Pooja Mishra,pooja.mishra26@gmail.com,BCA,WhatsApp Campaign,Project Guidance,Enrolled
+INT_1935,Rahul Mehta,rahul.mehta64@gmail.com,BTech,Referral,Full-Time Internship,Qualified
+INT_1936,Pooja Singh,pooja.singh62@gmail.com,M.Tech,Instagram Ad,Course Inquiry,Pending Review
+INT_1937,Kiran Mehta,kiran.mehta28@gmail.com,B.Tech (CS),WhatsApp Campaign,Course Inquiry,Rejected
+INT_1938,Sneha Yadav,sneha.yadav94@gmail.com,MCA,Website Direct,Full-Time Internship,Rejected
+INT_1939,Sneha Singh,sneha.singh93@gmail.com,B.Tech (AI/ML),Telegram,Course Inquiry,Pending Review
+INT_1940,Pooja Joshi,pooja.joshi28@gmail.com,B.Tech (AI/ML),Website Direct,Course Inquiry,Rejected
+INT_1941,Pooja Joshi,pooja.joshi79@gmail.com,BCA,Referral,Summer Internship,Rejected
+INT_1942,Ananya Singh,ananya.singh10@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Course Inquiry,Pending Review
+INT_1943,Aman Mishra,aman.mishra25@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Summer Internship,Contacted
+INT_1944,Aman Kumar,aman.kumar62@gmail.com,MCA,Website Direct,Course Inquiry,Rejected
+INT_1945,Priya Sharma,priya.sharma18@gmail.com,BCA,Telegram,Summer Internship,Pending Review
+INT_1946,Sneha Kumar,sneha.kumar70@gmail.com,B.Sc IT,Telegram,Project Guidance,Rejected
+INT_1947,Neha Yadav,neha.yadav10@gmail.com,B.Tech (CS),LinkedIn,Summer Internship,Qualified
+INT_1948,Rohit Sharma,rohit.sharma53@gmail.com,B.Sc IT,Website Direct,Full-Time Internship,Rejected
+INT_1949,Sneha Gupta,sneha.gupta89@gmail.com,BTech,Instagram Ad,Project Guidance,Enrolled
+INT_1950,Neha Mishra,neha.mishra49@gmail.com,B.Tech (CS),Referral,Summer Internship,Qualified
+INT_1951,Deepak Mishra,deepak.mishra15@gmail.com,MCA,Website Direct,Summer Internship,Contacted
+INT_1952,Neha Joshi,neha.joshi37@gmail.com,BTech,Referral,Course Inquiry,Rejected
+INT_1953,Ananya Mishra,ananya.mishra12@gmail.com,B.Tech (AI/ML),Referral,Full-Time Internship,Rejected
+INT_1954,Kiran Verma,kiran.verma39@gmail.com,BTech,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1955,Deepak Kumar,deepak.kumar67@gmail.com,MCA,Website Direct,Project Guidance,Rejected
+INT_1956,Sneha Kumar,sneha.kumar91@gmail.com,BTech,Instagram Ad,Full-Time Internship,Pending Review
+INT_1957,Neha Mehta,neha.mehta88@gmail.com,M.Tech,LinkedIn,Course Inquiry,Contacted
+INT_1958,Ananya Verma,ananya.verma56@gmail.com,B.Sc IT,Telegram,Course Inquiry,Rejected
+INT_1959,Ananya Kumar,ananya.kumar80@gmail.com,MCA,Referral,Full-Time Internship,Enrolled
+INT_1960,Kiran Mehta,kiran.mehta22@gmail.com,M.Tech,Instagram Ad,Summer Internship,Enrolled
+INT_1961,Aditya Mehta,aditya.mehta43@gmail.com,B.Sc IT,WhatsApp Campaign,Full-Time Internship,Pending Review
+INT_1962,Rahul Gupta,rahul.gupta35@gmail.com,B.Tech (AI/ML),LinkedIn,Course Inquiry,Enrolled
+INT_1963,Vikas Joshi,vikas.joshi39@gmail.com,M.Tech,Referral,Course Inquiry,Qualified
+INT_1964,Vikas Singh,vikas.singh50@gmail.com,MCA,Telegram,Course Inquiry,Contacted
+INT_1965,Rahul Kumar,rahul.kumar78@gmail.com,BCA,LinkedIn,Project Guidance,Rejected
+INT_1966,Neha Verma,neha.verma15@gmail.com,BTech,Website Direct,Full-Time Internship,Qualified
+INT_1967,Priya Singh,priya.singh88@gmail.com,M.Tech,LinkedIn,Course Inquiry,Rejected
+INT_1968,Sneha Sharma,sneha.sharma42@gmail.com,BCA,Website Direct,Full-Time Internship,Qualified
+INT_1969,Deepak Patel,deepak.patel39@gmail.com,B.Tech (AI/ML),LinkedIn,Course Inquiry,Rejected
+INT_1970,Rohit Sharma,rohit.sharma89@gmail.com,M.Tech,LinkedIn,Project Guidance,Contacted
+INT_1971,Rahul Yadav,rahul.yadav20@gmail.com,B.Tech (AI/ML),Instagram Ad,Full-Time Internship,Qualified
+INT_1972,Deepak Kumar,deepak.kumar61@gmail.com,BCA,LinkedIn,Course Inquiry,Pending Review
+INT_1973,Vikas Yadav,vikas.yadav95@gmail.com,B.Sc IT,Telegram,Project Guidance,Enrolled
+INT_1974,Neha Patel,neha.patel37@gmail.com,B.Tech (AI/ML),Instagram Ad,Course Inquiry,Pending Review
+INT_1975,Pooja Singh,pooja.singh19@gmail.com,BCA,Website Direct,Course Inquiry,Pending Review
+INT_1976,Ananya Yadav,ananya.yadav60@gmail.com,B.Tech (AI/ML),WhatsApp Campaign,Summer Internship,Qualified
+INT_1977,Rahul Yadav,rahul.yadav91@gmail.com,MCA,WhatsApp Campaign,Summer Internship,Rejected
+INT_1978,Sneha Sharma,sneha.sharma35@gmail.com,B.Tech (AI/ML),LinkedIn,Course Inquiry,Contacted
+INT_1979,Priya Kumar,priya.kumar50@gmail.com,B.Tech (CS),Instagram Ad,Course Inquiry,Rejected
+INT_1980,Aditya Joshi,aditya.joshi75@gmail.com,M.Tech,LinkedIn,Project Guidance,Rejected
+INT_1981,Aman Verma,aman.verma33@gmail.com,BCA,Instagram Ad,Summer Internship,Contacted
+INT_1982,Rahul Sharma,rahul.sharma98@gmail.com,B.Tech (CS),WhatsApp Campaign,Project Guidance,Enrolled
+INT_1983,Rahul Gupta,rahul.gupta87@gmail.com,B.Tech (CS),Referral,Course Inquiry,Rejected
+INT_1984,Ananya Gupta,ananya.gupta43@gmail.com,M.Tech,Telegram,Project Guidance,Qualified
+INT_1985,Aman Patel,aman.patel30@gmail.com,MCA,Website Direct,Full-Time Internship,Rejected
+INT_1986,Rohit Singh,rohit.singh86@gmail.com,BCA,Referral,Summer Internship,Contacted
+INT_1987,Vikas Sharma,vikas.sharma79@gmail.com,BTech,WhatsApp Campaign,Full-Time Internship,Enrolled
+INT_1988,Pooja Patel,pooja.patel68@gmail.com,BCA,Telegram,Full-Time Internship,Qualified
+INT_1989,Vikas Gupta,vikas.gupta62@gmail.com,B.Sc IT,LinkedIn,Summer Internship,Qualified
+INT_1990,Rahul Yadav,rahul.yadav37@gmail.com,BTech,LinkedIn,Project Guidance,Pending Review
+INT_1991,Vikas Verma,vikas.verma88@gmail.com,B.Tech (CS),LinkedIn,Project Guidance,Rejected
+INT_1992,Rahul Mehta,rahul.mehta10@gmail.com,B.Sc IT,Website Direct,Full-Time Internship,Pending Review
+INT_1993,Pooja Joshi,pooja.joshi48@gmail.com,BTech,LinkedIn,Summer Internship,Enrolled
+INT_1994,Aditya Singh,aditya.singh22@gmail.com,BCA,WhatsApp Campaign,Summer Internship,Pending Review
+INT_1995,Priya Joshi,priya.joshi68@gmail.com,M.Tech,Telegram,Course Inquiry,Enrolled
+INT_1996,Vikas Verma,vikas.verma52@gmail.com,BCA,LinkedIn,Summer Internship,Pending Review
+INT_1997,Pooja Patel,pooja.patel97@gmail.com,B.Tech (CS),Instagram Ad,Course Inquiry,Rejected
+INT_1998,Priya Yadav,priya.yadav89@gmail.com,B.Tech (AI/ML),Instagram Ad,Full-Time Internship,Qualified
+INT_1999,Pooja Patel,pooja.patel37@gmail.com,MCA,Instagram Ad,Project Guidance,Contacted
+INT_2000,Kiran Sharma,kiran.sharma55@gmail.com,B.Tech (CS),Instagram Ad,Full-Time Internship,Rejected
