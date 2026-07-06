@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: efos-leads-api
+    runtime: node
+    rootDir: efos-ai/backend
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: efos-leads-db
+          property: connectionString
+      - key: FRONTEND_URL
+        sync: false
+      - key: N8N_WEBHOOK_URL
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+
+databases:
+  - name: efos-leads-db
+    plan: free
+    databaseName: efos_leads

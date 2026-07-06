@@ -90,16 +90,20 @@ app.get('/', (req, res) => {
   });
 });
 
-// Debug endpoint to check SQLite database state
+// Debug endpoint to check database state
 app.get('/api/debug', async (req, res) => {
   try {
     const pool = require('./config/db');
     const [leadsCount] = await pool.query('SELECT COUNT(*) as count FROM leads');
     const [counselorsCount] = await pool.query('SELECT COUNT(*) as count FROM counselors');
-    const [tables] = await pool.query("SELECT name FROM sqlite_master WHERE type='table'");
+    const isPg = process.env.NODE_ENV === 'production' && process.env.DATABASE_URL;
+    const tableQuery = isPg
+      ? "SELECT tablename as name FROM pg_catalog.pg_tables WHERE schemaname = 'public'"
+      : "SELECT name FROM sqlite_master WHERE type='table'";
+    const [tables] = await pool.query(tableQuery);
     res.json({
       success: true,
-      tables: tables.map(t => t.name),
+      tables: tables.map(t => t.name || t.tablename),
       leadsCount: leadsCount[0].count,
       counselorsCount: counselorsCount[0].count
     });

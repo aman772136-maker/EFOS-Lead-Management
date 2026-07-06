@@ -15,8 +15,8 @@ qualifications = ['12th Completed', 'Graduate', 'Undergraduate', 'Post Graduate'
 
 data = []
 
-# Database Path
-db_path = r"C:\Users\aman7\Downloads\EFOS AI\EFOS AI\database\leads.db"
+# Database Path (relative to backend/config/db.js expected location)
+db_path = os.path.join(os.path.dirname(__file__), "database", "leads.db")
 
 # Create database directory if it doesn't exist
 db_dir = os.path.dirname(db_path)
